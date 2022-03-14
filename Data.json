@@ -1,1 +1,5866 @@
-{"cle": "valeur", "cle2": true}
+{
+    "bougainvillea_00002.jpg": {
+        "size": [
+            670,
+            1191
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00003.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00004.jpg": {
+        "size": [
+            1200,
+            803
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00005.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00006.jpg": {
+        "size": [
+            1170,
+            715
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00007.jpg": {
+        "size": [
+            1200,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00008.jpg": {
+        "size": [
+            1280,
+            853
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00009.jpg": {
+        "size": [
+            1200,
+            675
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00010.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00012.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00013.jpg": {
+        "size": [
+            1026,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00014.jpg": {
+        "size": [
+            960,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00015.jpg": {
+        "size": [
+            2576,
+            1932
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00016.jpg": {
+        "size": [
+            1000,
+            680
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00017.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00018.jpg": {
+        "size": [
+            882,
+            606
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00019.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00020.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00021.jpg": {
+        "size": [
+            3006,
+            3006
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00022.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00023.jpg": {
+        "size": [
+            480,
+            640
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00024.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00025.jpg": {
+        "size": [
+            1600,
+            851
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00026.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00027.jpg": {
+        "size": [
+            1600,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00028.jpg": {
+        "size": [
+            650,
+            488
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00029.jpg": {
+        "size": [
+            931,
+            885
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00030.jpg": {
+        "size": [
+            550,
+            733
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00031.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00032.jpg": {
+        "size": [
+            3308,
+            2951
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00033.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00034.jpg": {
+        "size": [
+            736,
+            1104
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00035.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00036.jpg": {
+        "size": [
+            1552,
+            1164
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00037.jpg": {
+        "size": [
+            1600,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00038.jpg": {
+        "size": [
+            768,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00039.jpg": {
+        "size": [
+            650,
+            1098
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00040.jpg": {
+        "size": [
+            3402,
+            2148
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00041.jpg": {
+        "size": [
+            425,
+            319
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00042.jpg": {
+        "size": [
+            931,
+            885
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00043.jpg": {
+        "size": [
+            550,
+            733
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00044.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00045.jpg": {
+        "size": [
+            3308,
+            2951
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00046.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00047.jpg": {
+        "size": [
+            736,
+            1104
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00048.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00049.jpg": {
+        "size": [
+            1552,
+            1164
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00050.jpg": {
+        "size": [
+            1600,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00051.jpg": {
+        "size": [
+            768,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00052.jpg": {
+        "size": [
+            650,
+            1098
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00053.jpg": {
+        "size": [
+            3402,
+            2148
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00054.jpg": {
+        "size": [
+            425,
+            319
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00055.jpg": {
+        "size": [
+            3132,
+            2484
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00056.jpg": {
+        "size": [
+            1600,
+            1195
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00057.jpg": {
+        "size": [
+            1024,
+            860
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00058.jpg": {
+        "size": [
+            410,
+            410
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00059.jpg": {
+        "size": [
+            346,
+            524
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00060.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00061.jpg": {
+        "size": [
+            650,
+            977
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00063.jpg": {
+        "size": [
+            768,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00064.jpg": {
+        "size": [
+            1440,
+            1076
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00066.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00067.jpg": {
+        "size": [
+            736,
+            888
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00068.jpg": {
+        "size": [
+            400,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00069.jpg": {
+        "size": [
+            650,
+            434
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00070.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00072.jpg": {
+        "size": [
+            1254,
+            836
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00073.jpg": {
+        "size": [
+            400,
+            300
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00074.jpg": {
+        "size": [
+            1600,
+            1050
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00075.jpg": {
+        "size": [
+            2500,
+            1660
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00076.jpg": {
+        "size": [
+            800,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00077.jpg": {
+        "size": [
+            506,
+            675
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "bougainvillea_00078.jpg": {
+        "size": [
+            600,
+            397
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "bougainvillea_00079.jpg": {
+        "size": [
+            1600,
+            1064
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00002.jpg": {
+        "size": [
+            1200,
+            1169
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00003.jpg": {
+        "size": [
+            1200,
+            1091
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00004.jpg": {
+        "size": [
+            2080,
+            2024
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00005.jpg": {
+        "size": [
+            1200,
+            1170
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00006.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00007.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00008.jpg": {
+        "size": [
+            1280,
+            840
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00009.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00010.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00011.jpg": {
+        "size": [
+            380,
+            543
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00012.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00013.jpg": {
+        "size": [
+            1024,
+            735
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00014.jpg": {
+        "size": [
+            2100,
+            1400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00015.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00016.jpg": {
+        "size": [
+            1280,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00017.jpg": {
+        "size": [
+            1200,
+            857
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00018.jpg": {
+        "size": [
+            1024,
+            714
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00019.jpg": {
+        "size": [
+            600,
+            402
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00020.jpg": {
+        "size": [
+            1280,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00021.jpg": {
+        "size": [
+            2592,
+            1944
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00022.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00023.jpg": {
+        "size": [
+            1209,
+            1166
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00024.jpg": {
+        "size": [
+            3888,
+            2592
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00025.jpg": {
+        "size": [
+            1280,
+            853
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00026.jpg": {
+        "size": [
+            1280,
+            853
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00027.jpg": {
+        "size": [
+            2288,
+            1712
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00028.jpg": {
+        "size": [
+            1200,
+            829
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00029.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00030.jpg": {
+        "size": [
+            2816,
+            1872
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00031.jpg": {
+        "size": [
+            1000,
+            679
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00032.jpg": {
+        "size": [
+            3840,
+            5760
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00033.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00034.jpg": {
+        "size": [
+            473,
+            712
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00035.jpg": {
+        "size": [
+            1024,
+            1051
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00036.jpg": {
+        "size": [
+            580,
+            518
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00037.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00038.jpg": {
+        "size": [
+            800,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00039.jpg": {
+        "size": [
+            1920,
+            1285
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00040.jpg": {
+        "size": [
+            1023,
+            682
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00041.jpg": {
+        "size": [
+            970,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00043.jpg": {
+        "size": [
+            675,
+            432
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00044.jpg": {
+        "size": [
+            970,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00046.jpg": {
+        "size": [
+            675,
+            432
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00047.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00048.jpg": {
+        "size": [
+            3000,
+            2000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00049.jpg": {
+        "size": [
+            2237,
+            1340
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00050.jpg": {
+        "size": [
+            620,
+            387
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00051.jpg": {
+        "size": [
+            2029,
+            1522
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00052.jpg": {
+        "size": [
+            2560,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00053.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00054.jpg": {
+        "size": [
+            5184,
+            3456
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00055.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00056.jpg": {
+        "size": [
+            2432,
+            3648
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00057.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00058.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00059.jpg": {
+        "size": [
+            3456,
+            4608
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00060.jpg": {
+        "size": [
+            620,
+            387
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00061.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00062.jpg": {
+        "size": [
+            958,
+            1437
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00063.jpg": {
+        "size": [
+            2000,
+            2500
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00064.jpg": {
+        "size": [
+            4000,
+            3000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00065.jpg": {
+        "size": [
+            1188,
+            792
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00066.jpg": {
+        "size": [
+            2592,
+            1944
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00068.jpg": {
+        "size": [
+            700,
+            467
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00070.jpg": {
+        "size": [
+            1200,
+            887
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00071.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00072.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00073.jpg": {
+        "size": [
+            792,
+            1280
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00074.jpg": {
+        "size": [
+            1386,
+            1385
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00075.jpg": {
+        "size": [
+            890,
+            1590
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "daisies_00076.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00077.jpg": {
+        "size": [
+            2592,
+            1944
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00078.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00079.jpg": {
+        "size": [
+            960,
+            635
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00080.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00081.jpg": {
+        "size": [
+            1600,
+            1566
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00082.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00083.jpg": {
+        "size": [
+            3600,
+            2380
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00084.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00085.jpg": {
+        "size": [
+            4672,
+            2988
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00086.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00087.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "daisies_00088.jpg": {
+        "size": [
+            1600,
+            1062
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00002.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00003.jpg": {
+        "size": [
+            1270,
+            1220
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00004.jpg": {
+        "size": [
+            995,
+            632
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00005.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00006.jpg": {
+        "size": [
+            500,
+            479
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00007.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00008.jpg": {
+        "size": [
+            1000,
+            898
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00009.jpg": {
+        "size": [
+            1280,
+            853
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00010.jpg": {
+        "size": [
+            2336,
+            3504
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00011.jpg": {
+        "size": [
+            3888,
+            2592
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00012.jpg": {
+        "size": [
+            600,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00013.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00014.jpg": {
+        "size": [
+            1000,
+            1333
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00015.jpg": {
+        "size": [
+            1280,
+            1009
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00016.jpg": {
+        "size": [
+            1600,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00018.jpg": {
+        "size": [
+            468,
+            705
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00019.jpg": {
+        "size": [
+            1919,
+            1280
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00020.jpg": {
+        "size": [
+            1024,
+            682
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00021.jpg": {
+        "size": [
+            948,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00022.jpg": {
+        "size": [
+            400,
+            359
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00023.jpg": {
+        "size": [
+            800,
+            530
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00024.jpg": {
+        "size": [
+            500,
+            375
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00025.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00026.jpg": {
+        "size": [
+            1600,
+            1112
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00027.jpg": {
+        "size": [
+            1024,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00028.jpg": {
+        "size": [
+            2592,
+            1728
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00029.jpg": {
+        "size": [
+            1697,
+            1131
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00030.jpg": {
+        "size": [
+            1278,
+            856
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00031.jpg": {
+        "size": [
+            900,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00032.jpg": {
+        "size": [
+            3872,
+            2592
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00034.jpg": {
+        "size": [
+            1326,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00035.jpg": {
+        "size": [
+            2503,
+            2400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00036.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00037.jpg": {
+        "size": [
+            736,
+            1300
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00038.jpg": {
+        "size": [
+            640,
+            480
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00039.jpg": {
+        "size": [
+            1200,
+            1800
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00040.jpg": {
+        "size": [
+            1280,
+            856
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00041.jpg": {
+        "size": [
+            350,
+            340
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00042.jpg": {
+        "size": [
+            675,
+            506
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00043.jpg": {
+        "size": [
+            1600,
+            1164
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00045.jpg": {
+        "size": [
+            1200,
+            1800
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00046.jpg": {
+        "size": [
+            1280,
+            856
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00047.jpg": {
+        "size": [
+            350,
+            340
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00048.jpg": {
+        "size": [
+            675,
+            506
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00049.jpg": {
+        "size": [
+            1600,
+            1164
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00051.jpg": {
+        "size": [
+            685,
+            922
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00052.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00054.jpg": {
+        "size": [
+            1000,
+            750
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00055.jpg": {
+        "size": [
+            1000,
+            746
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00056.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00057.jpg": {
+        "size": [
+            500,
+            751
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00058.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00059.jpg": {
+        "size": [
+            1400,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00060.jpg": {
+        "size": [
+            500,
+            750
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00063.jpg": {
+        "size": [
+            397,
+            529
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00064.jpg": {
+        "size": [
+            2366,
+            1905
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00065.jpg": {
+        "size": [
+            1280,
+            1925
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00066.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00067.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00068.jpg": {
+        "size": [
+            736,
+            1058
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00069.jpg": {
+        "size": [
+            670,
+            353
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00070.jpg": {
+        "size": [
+            1200,
+            675
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00071.jpg": {
+        "size": [
+            735,
+            1102
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00072.jpg": {
+        "size": [
+            1462,
+            977
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00073.jpg": {
+        "size": [
+            2048,
+            1360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00075.jpg": {
+        "size": [
+            670,
+            503
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00076.jpg": {
+        "size": [
+            400,
+            267
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00077.jpg": {
+        "size": [
+            1600,
+            1341
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00078.jpg": {
+        "size": [
+            1600,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00079.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00080.jpg": {
+        "size": [
+            600,
+            400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00081.jpg": {
+        "size": [
+            1500,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00082.jpg": {
+        "size": [
+            3264,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00083.jpg": {
+        "size": [
+            675,
+            450
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00084.jpg": {
+        "size": [
+            547,
+            547
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "gardenias_00085.jpg": {
+        "size": [
+            352,
+            529
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "gardenias_00086.jpg": {
+        "size": [
+            960,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00003.jpg": {
+        "size": [
+            1200,
+            1127
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00005.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00006.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00007.jpg": {
+        "size": [
+            2100,
+            1500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00008.jpg": {
+        "size": [
+            3264,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00009.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00011.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00012.jpg": {
+        "size": [
+            799,
+            533
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00013.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00014.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00015.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00016.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00017.jpg": {
+        "size": [
+            880,
+            1148
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00018.jpg": {
+        "size": [
+            750,
+            1050
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00019.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00020.jpg": {
+        "size": [
+            736,
+            1105
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00022.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00023.jpg": {
+        "size": [
+            1600,
+            1180
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00024.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00025.jpg": {
+        "size": [
+            992,
+            1482
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00026.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00027.jpg": {
+        "size": [
+            600,
+            444
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00028.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00030.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00031.jpg": {
+        "size": [
+            600,
+            450
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00032.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00033.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00034.jpg": {
+        "size": [
+            1200,
+            797
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00035.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00036.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00037.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00038.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00039.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00040.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00041.jpg": {
+        "size": [
+            1483,
+            2048
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00042.jpg": {
+        "size": [
+            735,
+            1102
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00043.jpg": {
+        "size": [
+            800,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00045.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00046.jpg": {
+        "size": [
+            3648,
+            5472
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00047.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00049.jpg": {
+        "size": [
+            1024,
+            865
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00050.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00051.jpg": {
+        "size": [
+            450,
+            450
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00052.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00053.jpg": {
+        "size": [
+            1483,
+            2048
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00054.jpg": {
+        "size": [
+            2190,
+            1460
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00055.jpg": {
+        "size": [
+            2848,
+            2136
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00057.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00058.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00060.jpg": {
+        "size": [
+            2560,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00061.jpg": {
+        "size": [
+            1920,
+            1280
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00062.jpg": {
+        "size": [
+            735,
+            1102
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00063.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00065.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00066.jpg": {
+        "size": [
+            840,
+            630
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00067.jpg": {
+        "size": [
+            1441,
+            1080
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00068.jpg": {
+        "size": [
+            800,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "garden_roses_00069.jpg": {
+        "size": [
+            1200,
+            630
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00070.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00071.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00072.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00073.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00074.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00075.jpg": {
+        "size": [
+            550,
+            550
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00076.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00077.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00078.jpg": {
+        "size": [
+            1700,
+            1129
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00079.jpg": {
+        "size": [
+            2445,
+            1832
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00080.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00083.jpg": {
+        "size": [
+            3308,
+            3285
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00084.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00085.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00086.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "garden_roses_00087.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00002.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00003.jpg": {
+        "size": [
+            1200,
+            1800
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00004.jpg": {
+        "size": [
+            1200,
+            878
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00005.jpg": {
+        "size": [
+            1900,
+            1267
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00006.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00007.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00009.jpg": {
+        "size": [
+            3865,
+            2576
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00010.jpg": {
+        "size": [
+            450,
+            480
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00011.jpg": {
+        "size": [
+            838,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00012.jpg": {
+        "size": [
+            2808,
+            2472
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00014.jpg": {
+        "size": [
+            1200,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00015.jpg": {
+        "size": [
+            1500,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00016.jpg": {
+        "size": [
+            1600,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00018.jpg": {
+        "size": [
+            1920,
+            1389
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00019.jpg": {
+        "size": [
+            450,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00021.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00022.jpg": {
+        "size": [
+            1024,
+            776
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00025.jpg": {
+        "size": [
+            800,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00027.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00028.jpg": {
+        "size": [
+            1254,
+            836
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00029.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00030.jpg": {
+        "size": [
+            1936,
+            2592
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00031.jpg": {
+        "size": [
+            640,
+            480
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00032.jpg": {
+        "size": [
+            600,
+            450
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00034.jpg": {
+        "size": [
+            2112,
+            1472
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00036.jpg": {
+        "size": [
+            1630,
+            2048
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00037.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00038.jpg": {
+        "size": [
+            1204,
+            1204
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00039.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00040.jpg": {
+        "size": [
+            684,
+            571
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00041.jpg": {
+        "size": [
+            958,
+            1408
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00042.jpg": {
+        "size": [
+            3468,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00043.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00044.jpg": {
+        "size": [
+            768,
+            512
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00045.jpg": {
+        "size": [
+            1630,
+            2048
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00046.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00047.jpg": {
+        "size": [
+            1204,
+            1204
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00048.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00049.jpg": {
+        "size": [
+            684,
+            571
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00050.jpg": {
+        "size": [
+            958,
+            1408
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00051.jpg": {
+        "size": [
+            3468,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00052.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00053.jpg": {
+        "size": [
+            768,
+            512
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00054.jpg": {
+        "size": [
+            1000,
+            751
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00055.jpg": {
+        "size": [
+            1500,
+            2250
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00056.jpg": {
+        "size": [
+            550,
+            550
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00057.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00058.jpg": {
+        "size": [
+            474,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00059.jpg": {
+        "size": [
+            1200,
+            884
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00060.jpg": {
+        "size": [
+            572,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00061.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00062.jpg": {
+        "size": [
+            570,
+            420
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00063.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00064.jpg": {
+        "size": [
+            3008,
+            2000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00065.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00066.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00067.jpg": {
+        "size": [
+            768,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00068.jpg": {
+        "size": [
+            367,
+            334
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00069.jpg": {
+        "size": [
+            1920,
+            1080
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00070.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00071.jpg": {
+        "size": [
+            1200,
+            837
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00072.jpg": {
+        "size": [
+            1078,
+            1020
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00073.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00074.jpg": {
+        "size": [
+            2816,
+            2112
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00075.jpg": {
+        "size": [
+            1200,
+            892
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00076.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00077.jpg": {
+        "size": [
+            1440,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00078.jpg": {
+        "size": [
+            2288,
+            1712
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00079.jpg": {
+        "size": [
+            600,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hibiscus_00080.jpg": {
+        "size": [
+            480,
+            360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00081.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00082.jpg": {
+        "size": [
+            2816,
+            2112
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00083.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hibiscus_00084.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00002.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00003.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00004.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00005.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00006.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00007.jpg": {
+        "size": [
+            1280,
+            1920
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00008.jpg": {
+        "size": [
+            1066,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00009.jpg": {
+        "size": [
+            1200,
+            803
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00010.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00012.jpg": {
+        "size": [
+            1067,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00013.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00014.jpg": {
+        "size": [
+            1600,
+            1141
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00015.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00016.jpg": {
+        "size": [
+            600,
+            400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00017.jpg": {
+        "size": [
+            800,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00018.jpg": {
+        "size": [
+            1066,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00019.jpg": {
+        "size": [
+            380,
+            508
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00020.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00021.jpg": {
+        "size": [
+            1697,
+            1131
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00022.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00024.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00026.jpg": {
+        "size": [
+            2159,
+            1619
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00027.jpg": {
+        "size": [
+            750,
+            566
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00028.jpg": {
+        "size": [
+            720,
+            515
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00029.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00030.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00031.jpg": {
+        "size": [
+            3072,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00032.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00033.jpg": {
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00034.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00035.jpg": {
+        "size": [
+            2048,
+            1536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00036.jpg": {
+        "size": [
+            3072,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00037.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00038.jpg": {
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00040.jpg": {
+        "size": [
+            4608,
+            3456
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00043.jpg": {
+        "size": [
+            979,
+            1224
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00044.jpg": {
+        "size": [
+            736,
+            418
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00045.jpg": {
+        "size": [
+            590,
+            350
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00046.jpg": {
+        "size": [
+            3008,
+            2000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00047.jpg": {
+        "size": [
+            1432,
+            1107
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00048.jpg": {
+        "size": [
+            1000,
+            1102
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00049.jpg": {
+        "size": [
+            1632,
+            1224
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00051.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00052.jpg": {
+        "size": [
+            1122,
+            801
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00054.jpg": {
+        "size": [
+            2592,
+            1864
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00055.jpg": {
+        "size": [
+            3264,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00056.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00057.jpg": {
+        "size": [
+            1200,
+            956
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00058.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00059.jpg": {
+        "size": [
+            1200,
+            675
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00060.jpg": {
+        "size": [
+            550,
+            413
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00061.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00063.jpg": {
+        "size": [
+            460,
+            288
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00064.jpg": {
+        "size": [
+            2592,
+            1944
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00066.jpg": {
+        "size": [
+            780,
+            1168
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00067.jpg": {
+        "size": [
+            2453,
+            1538
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00068.jpg": {
+        "size": [
+            680,
+            1209
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00069.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "hydrangeas_00070.jpg": {
+        "size": [
+            735,
+            1102
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "hydrangeas_00071.jpg": {
+        "size": [
+            700,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00002.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00003.jpg": {
+        "size": [
+            1200,
+            895
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00004.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00005.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00006.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00007.jpg": {
+        "size": [
+            1406,
+            1364
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00008.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00009.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00010.jpg": {
+        "size": [
+            1600,
+            1415
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00011.jpg": {
+        "size": [
+            1320,
+            1320
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00012.jpg": {
+        "size": [
+            1920,
+            1372
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00013.jpg": {
+        "size": [
+            1920,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00014.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00015.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00016.jpg": {
+        "size": [
+            1152,
+            864
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00017.jpg": {
+        "size": [
+            1200,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00018.jpg": {
+        "size": [
+            1600,
+            1281
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00019.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00020.jpg": {
+        "size": [
+            3648,
+            2736
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00021.jpg": {
+        "size": [
+            800,
+            594
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00022.jpg": {
+        "size": [
+            1200,
+            1145
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00023.jpg": {
+        "size": [
+            800,
+            584
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00024.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00025.jpg": {
+        "size": [
+            1600,
+            1283
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00026.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00027.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00028.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00029.jpg": {
+        "size": [
+            800,
+            531
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00030.jpg": {
+        "size": [
+            468,
+            705
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00032.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00033.jpg": {
+        "size": [
+            350,
+            407
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00034.jpg": {
+        "size": [
+            1500,
+            1009
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00035.jpg": {
+        "size": [
+            1280,
+            848
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00036.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00037.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00038.jpg": {
+        "size": [
+            3008,
+            2000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00039.jpg": {
+        "size": [
+            3867,
+            2578
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00040.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00041.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00042.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00044.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00045.jpg": {
+        "size": [
+            1400,
+            1400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00048.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00049.jpg": {
+        "size": [
+            1400,
+            1400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00051.jpg": {
+        "size": [
+            960,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00052.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00053.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00054.jpg": {
+        "size": [
+            2200,
+            1467
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00055.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00057.jpg": {
+        "size": [
+            3716,
+            2421
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00058.jpg": {
+        "size": [
+            4000,
+            3000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00059.jpg": {
+        "size": [
+            1200,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00060.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00061.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00062.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00063.jpg": {
+        "size": [
+            960,
+            641
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00064.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00065.jpg": {
+        "size": [
+            768,
+            576
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00066.jpg": {
+        "size": [
+            1132,
+            1696
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00067.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00068.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00069.jpg": {
+        "size": [
+            1440,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00070.jpg": {
+        "size": [
+            1936,
+            1296
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00071.jpg": {
+        "size": [
+            449,
+            672
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00072.jpg": {
+        "size": [
+            640,
+            480
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00073.jpg": {
+        "size": [
+            768,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00074.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00075.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00076.jpg": {
+        "size": [
+            469,
+            705
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00077.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00078.jpg": {
+        "size": [
+            1386,
+            1385
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00079.jpg": {
+        "size": [
+            640,
+            480
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00080.jpg": {
+        "size": [
+            800,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00081.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00082.jpg": {
+        "size": [
+            1200,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00083.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00084.jpg": {
+        "size": [
+            731,
+            1023
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "lilies_00085.jpg": {
+        "size": [
+            1000,
+            718
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00086.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00087.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "lilies_00088.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00002.jpg": {
+        "size": [
+            680,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00003.jpg": {
+        "size": [
+            1394,
+            2154
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00004.jpg": {
+        "size": [
+            3409,
+            2234
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00005.jpg": {
+        "size": [
+            1440,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00006.jpg": {
+        "size": [
+            2139,
+            3111
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00007.jpg": {
+        "size": [
+            1200,
+            882
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00008.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00009.jpg": {
+        "size": [
+            570,
+            857
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00010.jpg": {
+        "size": [
+            2196,
+            1365
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00011.jpg": {
+        "size": [
+            1920,
+            1080
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00012.jpg": {
+        "size": [
+            1600,
+            1237
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00013.jpg": {
+        "size": [
+            590,
+            350
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00014.jpg": {
+        "size": [
+            2592,
+            1944
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00015.jpg": {
+        "size": [
+            3456,
+            2304
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00016.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00017.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00018.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00019.jpg": {
+        "size": [
+            1000,
+            667
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00020.jpg": {
+        "size": [
+            1840,
+            2760
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00021.jpg": {
+        "size": [
+            431,
+            498
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00022.jpg": {
+        "size": [
+            900,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00023.jpg": {
+        "size": [
+            1600,
+            1203
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00024.jpg": {
+        "size": [
+            1500,
+            1001
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00025.jpg": {
+        "size": [
+            1030,
+            687
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00026.jpg": {
+        "size": [
+            500,
+            470
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00027.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00028.jpg": {
+        "size": [
+            3680,
+            1095
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00029.jpg": {
+        "size": [
+            949,
+            811
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00030.jpg": {
+        "size": [
+            1440,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00031.jpg": {
+        "size": [
+            1067,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00032.jpg": {
+        "size": [
+            1600,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00033.jpg": {
+        "size": [
+            5472,
+            3648
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00034.jpg": {
+        "size": [
+            2364,
+            2047
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00035.jpg": {
+        "size": [
+            3680,
+            1095
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00036.jpg": {
+        "size": [
+            949,
+            811
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00037.jpg": {
+        "size": [
+            1440,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00038.jpg": {
+        "size": [
+            1067,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00039.jpg": {
+        "size": [
+            1600,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00040.jpg": {
+        "size": [
+            5472,
+            3648
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00041.jpg": {
+        "size": [
+            2364,
+            2047
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00042.jpg": {
+        "size": [
+            5044,
+            3406
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00044.jpg": {
+        "size": [
+            1024,
+            1027
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00045.jpg": {
+        "size": [
+            4000,
+            6000
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00046.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00047.jpg": {
+        "size": [
+            620,
+            387
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00048.jpg": {
+        "size": [
+            750,
+            750
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00049.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00050.jpg": {
+        "size": [
+            1600,
+            898
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00051.jpg": {
+        "size": [
+            1600,
+            1119
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00052.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00053.jpg": {
+        "size": [
+            5184,
+            3456
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00054.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00055.jpg": {
+        "size": [
+            1024,
+            741
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00056.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00057.jpg": {
+        "size": [
+            1132,
+            1696
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00058.jpg": {
+        "size": [
+            4001,
+            5658
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00059.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00060.jpg": {
+        "size": [
+            500,
+            341
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00061.jpg": {
+        "size": [
+            634,
+            402
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00062.jpg": {
+        "size": [
+            500,
+            279
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00064.jpg": {
+        "size": [
+            4784,
+            3456
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00065.jpg": {
+        "size": [
+            888,
+            888
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "orchids_00066.jpg": {
+        "size": [
+            675,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "orchids_00067.jpg": {
+        "size": [
+            451,
+            640
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00002.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00003.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00004.jpg": {
+        "size": [
+            2484,
+            2303
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00005.jpg": {
+        "size": [
+            900,
+            506
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00006.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00008.jpg": {
+        "size": [
+            3648,
+            2736
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00009.jpg": {
+        "size": [
+            2736,
+            3202
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00010.jpg": {
+        "size": [
+            1920,
+            1577
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00011.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00012.jpg": {
+        "size": [
+            480,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00013.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00014.jpg": {
+        "size": [
+            960,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00015.jpg": {
+        "size": [
+            4000,
+            2000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00016.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00017.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00018.jpg": {
+        "size": [
+            1600,
+            1064
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00019.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00020.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00021.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00022.jpg": {
+        "size": [
+            1440,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00024.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00025.jpg": {
+        "size": [
+            3865,
+            2576
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00026.jpg": {
+        "size": [
+            2736,
+            3648
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00027.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00028.jpg": {
+        "size": [
+            2272,
+            1704
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00029.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00030.jpg": {
+        "size": [
+            3648,
+            2736
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00031.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00032.jpg": {
+        "size": [
+            1728,
+            2592
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00033.jpg": {
+        "size": [
+            998,
+            750
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00034.jpg": {
+        "size": [
+            468,
+            434
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00035.jpg": {
+        "size": [
+            1600,
+            1282
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00036.jpg": {
+        "size": [
+            600,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00037.jpg": {
+        "size": [
+            1200,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00038.jpg": {
+        "size": [
+            660,
+            475
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00039.jpg": {
+        "size": [
+            1000,
+            662
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00040.jpg": {
+        "size": [
+            1044,
+            1500
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00041.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00042.jpg": {
+        "size": [
+            468,
+            434
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00043.jpg": {
+        "size": [
+            1600,
+            1282
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00044.jpg": {
+        "size": [
+            600,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00045.jpg": {
+        "size": [
+            1200,
+            800
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00046.jpg": {
+        "size": [
+            660,
+            475
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00047.jpg": {
+        "size": [
+            1000,
+            662
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00048.jpg": {
+        "size": [
+            1044,
+            1500
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00049.jpg": {
+        "size": [
+            1200,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00051.jpg": {
+        "size": [
+            500,
+            375
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00052.jpg": {
+        "size": [
+            858,
+            536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00053.jpg": {
+        "size": [
+            720,
+            557
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00054.jpg": {
+        "size": [
+            468,
+            705
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00055.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00056.jpg": {
+        "size": [
+            900,
+            603
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00057.jpg": {
+        "size": [
+            720,
+            440
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00058.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00059.jpg": {
+        "size": [
+            1600,
+            1066
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00060.jpg": {
+        "size": [
+            996,
+            1500
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00061.jpg": {
+        "size": [
+            640,
+            460
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00062.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00063.jpg": {
+        "size": [
+            4048,
+            3040
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00064.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00065.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00066.jpg": {
+        "size": [
+            1600,
+            1087
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00067.jpg": {
+        "size": [
+            800,
+            645
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00068.jpg": {
+        "size": [
+            640,
+            1256
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00069.jpg": {
+        "size": [
+            1600,
+            1098
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00070.jpg": {
+        "size": [
+            900,
+            899
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00071.jpg": {
+        "size": [
+            1200,
+            630
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00072.jpg": {
+        "size": [
+            1567,
+            1225
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00073.jpg": {
+        "size": [
+            736,
+            1103
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "peonies_00075.jpg": {
+        "size": [
+            600,
+            400
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00077.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00078.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00079.jpg": {
+        "size": [
+            1000,
+            750
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00080.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "peonies_00081.jpg": {
+        "size": [
+            1600,
+            1067
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00002.jpg": {
+        "size": [
+            2048,
+            1360
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00003.jpg": {
+        "size": [
+            858,
+            536
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00004.jpg": {
+        "size": [
+            1600,
+            1071
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00005.jpg": {
+        "size": [
+            5616,
+            3744
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00006.jpg": {
+        "size": [
+            653,
+            1028
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00007.jpg": {
+        "size": [
+            850,
+            995
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00008.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00009.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00010.jpg": {
+        "size": [
+            1600,
+            1028
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00011.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00012.jpg": {
+        "size": [
+            1365,
+            2048
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00013.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00014.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00015.jpg": {
+        "size": [
+            1200,
+            1600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00016.jpg": {
+        "size": [
+            1600,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00017.jpg": {
+        "size": [
+            1200,
+            801
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00018.jpg": {
+        "size": [
+            1560,
+            1114
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00019.jpg": {
+        "size": [
+            500,
+            377
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00020.jpg": {
+        "size": [
+            1024,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00021.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00022.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00023.jpg": {
+        "size": [
+            3264,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00024.jpg": {
+        "size": [
+            1512,
+            1080
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00025.jpg": {
+        "size": [
+            900,
+            572
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00026.jpg": {
+        "size": [
+            2348,
+            1904
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00027.jpg": {
+        "size": [
+            2736,
+            3648
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00028.jpg": {
+        "size": [
+            1560,
+            1040
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00029.jpg": {
+        "size": [
+            1280,
+            1707
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00030.jpg": {
+        "size": [
+            500,
+            334
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00031.jpg": {
+        "size": [
+            798,
+            1200
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00032.jpg": {
+        "size": [
+            1280,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00033.jpg": {
+        "size": [
+            809,
+            1050
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00034.jpg": {
+        "size": [
+            450,
+            450
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00035.jpg": {
+        "size": [
+            600,
+            562
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00036.jpg": {
+        "size": [
+            336,
+            420
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00037.jpg": {
+        "size": [
+            1280,
+            960
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00040.jpg": {
+        "size": [
+            465,
+            620
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00041.jpg": {
+        "size": [
+            591,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00045.jpg": {
+        "size": [
+            465,
+            620
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00046.jpg": {
+        "size": [
+            591,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00048.jpg": {
+        "size": [
+            940,
+            705
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00049.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00050.jpg": {
+        "size": [
+            500,
+            500
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00051.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00052.jpg": {
+        "size": [
+            768,
+            576
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00053.jpg": {
+        "size": [
+            1560,
+            1040
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00054.jpg": {
+        "size": [
+            1600,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00056.jpg": {
+        "size": [
+            965,
+            1276
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00057.jpg": {
+        "size": [
+            2560,
+            1440
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00058.jpg": {
+        "size": [
+            1697,
+            1123
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00059.jpg": {
+        "size": [
+            1600,
+            1171
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00061.jpg": {
+        "size": [
+            420,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00062.jpg": {
+        "size": [
+            900,
+            900
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00063.jpg": {
+        "size": [
+            768,
+            1024
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00064.jpg": {
+        "size": [
+            1200,
+            798
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00065.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00066.jpg": {
+        "size": [
+            351,
+            529
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00067.jpg": {
+        "size": [
+            1680,
+            1050
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00068.jpg": {
+        "size": [
+            1024,
+            717
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00069.jpg": {
+        "size": [
+            2592,
+            3888
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00070.jpg": {
+        "size": [
+            900,
+            600
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00071.jpg": {
+        "size": [
+            2644,
+            1751
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00074.jpg": {
+        "size": [
+            1061,
+            1500
+        ],
+        "format": "JPEG",
+        "orientation": "portrait"
+    },
+    "tulip_00075.jpg": {
+        "size": [
+            1500,
+            1056
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00076.jpg": {
+        "size": [
+            1600,
+            1071
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00077.jpg": {
+        "size": [
+            600,
+            401
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00079.jpg": {
+        "size": [
+            890,
+            720
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00080.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00081.jpg": {
+        "size": [
+            1000,
+            1000
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00083.jpg": {
+        "size": [
+            1024,
+            768
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    },
+    "tulip_00084.jpg": {
+        "size": [
+            3264,
+            2448
+        ],
+        "format": "JPEG",
+        "orientation": "paysage"
+    }
+}
