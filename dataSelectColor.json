@@ -1,0 +1,42 @@
+{
+    "10":{
+        "Color Name":"black",
+        "Credits":"N,V,X",
+        "R;G;B Dec":"0;0;0"
+    },
+    "215":{
+        "Color Name":"blue",
+        "Credits":"N,V,X",
+        "R;G;B Dec":"0;0;255"
+    },
+    "222":{
+        "Color Name":"cyan",
+        "Credits":"N,X",
+        "R;G;B Dec":"0;255;255"
+    },
+    "342":{
+        "Color Name":"green",
+        "Credits":"N,X",
+        "R;G;B Dec":"0;255;0"
+    },
+    "471":{
+        "Color Name":"red",
+        "Credits":"N,V,X",
+        "R;G;B Dec":"255;0;0"
+    },
+    "514":{
+        "Color Name":"magenta",
+        "Credits":"N,X",
+        "R;G;B Dec":"255;0;255"
+    },
+    "595":{
+        "Color Name":"white",
+        "Credits":"N,V,X",
+        "R;G;B Dec":"255;255;255"
+    },
+    "633":{
+        "Color Name":"yellow",
+        "Credits":"N,V,X",
+        "R;G;B Dec":"255;255;0"
+    }
+}
