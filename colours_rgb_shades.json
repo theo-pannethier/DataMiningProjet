@@ -1,0 +1,6602 @@
+[
+ {
+   "Color Name": "Grey",
+   "Credits": "N",
+   "R;G;B Dec": "84;84;84",
+   "RGB Hex": "545454",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Grey, Silver",
+   "Credits": "V",
+   "R;G;B Dec": "192;192;192",
+   "RGB Hex": "C0C0C0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey",
+   "Credits": "X",
+   "R;G;B Dec": "190;190;190",
+   "RGB Hex": "BEBEBE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGray",
+   "Credits": "X",
+   "R;G;B Dec": "211;211;211",
+   "RGB Hex": "D3D3D3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSlateGrey",
+   "Credits": "X",
+   "R;G;B Dec": "119;136;153",
+   "RGB Hex": "778899",
+   "CSS Hex": "789",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateGray",
+   "Credits": "X",
+   "R;G;B Dec": "112;128;144",
+   "RGB Hex": "708090",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateGray1",
+   "Credits": "X",
+   "R;G;B Dec": "198;226;255",
+   "RGB Hex": "C6E2FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateGray2",
+   "Credits": "X",
+   "R;G;B Dec": "185;211;238",
+   "RGB Hex": "B9D3EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateGray3",
+   "Credits": "X",
+   "R;G;B Dec": "159;182;205",
+   "RGB Hex": "9FB6CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateGray4",
+   "Credits": "X",
+   "R;G;B Dec": "108;123;139",
+   "RGB Hex": "6C7B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "black",
+   "Credits": "N,V,X",
+   "R;G;B Dec": "0;0;0",
+   "RGB Hex": "0",
+   "CSS Hex": "0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey0",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;0",
+   "RGB Hex": "0",
+   "CSS Hex": "0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey1",
+   "Credits": "X",
+   "R;G;B Dec": "3;3;3",
+   "RGB Hex": "30303",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey2",
+   "Credits": "X",
+   "R;G;B Dec": "5;5;5",
+   "RGB Hex": "50505",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey3",
+   "Credits": "X",
+   "R;G;B Dec": "8;8;8",
+   "RGB Hex": "80808",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey4",
+   "Credits": "X",
+   "R;G;B Dec": "10;10;10",
+   "RGB Hex": "0A0A0A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey5",
+   "Credits": "X",
+   "R;G;B Dec": "13;13;13",
+   "RGB Hex": "0D0D0D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey6",
+   "Credits": "X",
+   "R;G;B Dec": "15;15;15",
+   "RGB Hex": "0F0F0F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey7",
+   "Credits": "X",
+   "R;G;B Dec": "18;18;18",
+   "RGB Hex": "121212",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey8",
+   "Credits": "X",
+   "R;G;B Dec": "20;20;20",
+   "RGB Hex": "141414",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey9",
+   "Credits": "X",
+   "R;G;B Dec": "23;23;23",
+   "RGB Hex": "171717",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey10",
+   "Credits": "X",
+   "R;G;B Dec": "26;26;26",
+   "RGB Hex": "1A1A1A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey11",
+   "Credits": "X",
+   "R;G;B Dec": "28;28;28",
+   "RGB Hex": "1C1C1C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey12",
+   "Credits": "X",
+   "R;G;B Dec": "31;31;31",
+   "RGB Hex": "1F1F1F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey13",
+   "Credits": "X",
+   "R;G;B Dec": "33;33;33",
+   "RGB Hex": "212121",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "34;34;34",
+   "RGB Hex": "222222",
+   "CSS Hex": "222",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey14",
+   "Credits": "X",
+   "R;G;B Dec": "36;36;36",
+   "RGB Hex": "242424",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey15",
+   "Credits": "X",
+   "R;G;B Dec": "38;38;38",
+   "RGB Hex": "262626",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey16",
+   "Credits": "X",
+   "R;G;B Dec": "41;41;41",
+   "RGB Hex": "292929",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey17",
+   "Credits": "X",
+   "R;G;B Dec": "43;43;43",
+   "RGB Hex": "2B2B2B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey18",
+   "Credits": "X",
+   "R;G;B Dec": "46;46;46",
+   "RGB Hex": "2E2E2E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey19",
+   "Credits": "X",
+   "R;G;B Dec": "48;48;48",
+   "RGB Hex": "303030",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey20",
+   "Credits": "X",
+   "R;G;B Dec": "51;51;51",
+   "RGB Hex": "333333",
+   "CSS Hex": "333",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey21",
+   "Credits": "X",
+   "R;G;B Dec": "54;54;54",
+   "RGB Hex": "363636",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey22",
+   "Credits": "X",
+   "R;G;B Dec": "56;56;56",
+   "RGB Hex": "383838",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey23",
+   "Credits": "X",
+   "R;G;B Dec": "59;59;59",
+   "RGB Hex": "3B3B3B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey24",
+   "Credits": "X",
+   "R;G;B Dec": "61;61;61",
+   "RGB Hex": "3D3D3D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey25",
+   "Credits": "X",
+   "R;G;B Dec": "64;64;64",
+   "RGB Hex": "404040",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey26",
+   "Credits": "X",
+   "R;G;B Dec": "66;66;66",
+   "RGB Hex": "424242",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey27",
+   "Credits": "X",
+   "R;G;B Dec": "69;69;69",
+   "RGB Hex": "454545",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey28",
+   "Credits": "X",
+   "R;G;B Dec": "71;71;71",
+   "RGB Hex": "474747",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey29",
+   "Credits": "X",
+   "R;G;B Dec": "74;74;74",
+   "RGB Hex": "4A4A4A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey30",
+   "Credits": "X",
+   "R;G;B Dec": "77;77;77",
+   "RGB Hex": "4D4D4D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey31",
+   "Credits": "X",
+   "R;G;B Dec": "79;79;79",
+   "RGB Hex": "4F4F4F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey32",
+   "Credits": "X",
+   "R;G;B Dec": "82;82;82",
+   "RGB Hex": "525252",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey33",
+   "Credits": "X",
+   "R;G;B Dec": "84;84;84",
+   "RGB Hex": "545454",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "85;85;85",
+   "RGB Hex": "555555",
+   "CSS Hex": "555",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey34",
+   "Credits": "X",
+   "R;G;B Dec": "87;87;87",
+   "RGB Hex": "575757",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey35",
+   "Credits": "X",
+   "R;G;B Dec": "89;89;89",
+   "RGB Hex": "595959",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey36",
+   "Credits": "X",
+   "R;G;B Dec": "92;92;92",
+   "RGB Hex": "5C5C5C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey37",
+   "Credits": "X",
+   "R;G;B Dec": "94;94;94",
+   "RGB Hex": "5E5E5E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey38",
+   "Credits": "X",
+   "R;G;B Dec": "97;97;97",
+   "RGB Hex": "616161",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey39",
+   "Credits": "X",
+   "R;G;B Dec": "99;99;99",
+   "RGB Hex": "636363",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey40",
+   "Credits": "X",
+   "R;G;B Dec": "102;102;102",
+   "RGB Hex": "666666",
+   "CSS Hex": "666",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey41, DimGrey",
+   "Credits": "X",
+   "R;G;B Dec": "105;105;105",
+   "RGB Hex": "696969",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey42",
+   "Credits": "X",
+   "R;G;B Dec": "107;107;107",
+   "RGB Hex": "6B6B6B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey43",
+   "Credits": "X",
+   "R;G;B Dec": "110;110;110",
+   "RGB Hex": "6E6E6E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey44",
+   "Credits": "X",
+   "R;G;B Dec": "112;112;112",
+   "RGB Hex": "707070",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey45",
+   "Credits": "X",
+   "R;G;B Dec": "115;115;115",
+   "RGB Hex": "737373",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey46",
+   "Credits": "X",
+   "R;G;B Dec": "117;117;117",
+   "RGB Hex": "757575",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "119;119;119",
+   "RGB Hex": "777777",
+   "CSS Hex": "777",
+   "BG": {
+      "FG color sample": "#©2006 walsh@njit.edu#"
+   }
+},
+ {
+   "Color Name": "grey47",
+   "Credits": "X",
+   "R;G;B Dec": "120;120;120",
+   "RGB Hex": "787878",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey48",
+   "Credits": "X",
+   "R;G;B Dec": "122;122;122",
+   "RGB Hex": "7A7A7A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey49",
+   "Credits": "X",
+   "R;G;B Dec": "125;125;125",
+   "RGB Hex": "7D7D7D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey50",
+   "Credits": "X",
+   "R;G;B Dec": "127;127;127",
+   "RGB Hex": "7F7F7F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey51",
+   "Credits": "X",
+   "R;G;B Dec": "130;130;130",
+   "RGB Hex": "828282",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey52",
+   "Credits": "X",
+   "R;G;B Dec": "133;133;133",
+   "RGB Hex": "858585",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey53",
+   "Credits": "X",
+   "R;G;B Dec": "135;135;135",
+   "RGB Hex": "878787",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "136;136;136",
+   "RGB Hex": "888888",
+   "CSS Hex": "888",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey54",
+   "Credits": "X",
+   "R;G;B Dec": "138;138;138",
+   "RGB Hex": "8A8A8A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey55",
+   "Credits": "X",
+   "R;G;B Dec": "140;140;140",
+   "RGB Hex": "8C8C8C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey56",
+   "Credits": "X",
+   "R;G;B Dec": "143;143;143",
+   "RGB Hex": "8F8F8F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey57",
+   "Credits": "X",
+   "R;G;B Dec": "145;145;145",
+   "RGB Hex": "919191",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey58",
+   "Credits": "X",
+   "R;G;B Dec": "148;148;148",
+   "RGB Hex": "949494",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey59",
+   "Credits": "X",
+   "R;G;B Dec": "150;150;150",
+   "RGB Hex": "969696",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey60",
+   "Credits": "X",
+   "R;G;B Dec": "153;153;153",
+   "RGB Hex": "999999",
+   "CSS Hex": "999",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey61",
+   "Credits": "X",
+   "R;G;B Dec": "156;156;156",
+   "RGB Hex": "9C9C9C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey62",
+   "Credits": "X",
+   "R;G;B Dec": "158;158;158",
+   "RGB Hex": "9E9E9E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey63",
+   "Credits": "X",
+   "R;G;B Dec": "161;161;161",
+   "RGB Hex": "A1A1A1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey64",
+   "Credits": "X",
+   "R;G;B Dec": "163;163;163",
+   "RGB Hex": "A3A3A3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey65",
+   "Credits": "X",
+   "R;G;B Dec": "166;166;166",
+   "RGB Hex": "A6A6A6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey66",
+   "Credits": "X",
+   "R;G;B Dec": "168;168;168",
+   "RGB Hex": "A8A8A8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey67",
+   "Credits": "X",
+   "R;G;B Dec": "171;171;171",
+   "RGB Hex": "ABABAB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey68",
+   "Credits": "X",
+   "R;G;B Dec": "173;173;173",
+   "RGB Hex": "ADADAD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey69",
+   "Credits": "X",
+   "R;G;B Dec": "176;176;176",
+   "RGB Hex": "B0B0B0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey70",
+   "Credits": "X",
+   "R;G;B Dec": "179;179;179",
+   "RGB Hex": "B3B3B3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey71",
+   "Credits": "X",
+   "R;G;B Dec": "181;181;181",
+   "RGB Hex": "B5B5B5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey72",
+   "Credits": "X",
+   "R;G;B Dec": "184;184;184",
+   "RGB Hex": "B8B8B8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "187;187;187",
+   "RGB Hex": "BBBBBB",
+   "CSS Hex": "bbb",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey73",
+   "Credits": "X",
+   "R;G;B Dec": "186;186;186",
+   "RGB Hex": "BABABA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey74",
+   "Credits": "X",
+   "R;G;B Dec": "189;189;189",
+   "RGB Hex": "BDBDBD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey75",
+   "Credits": "X",
+   "R;G;B Dec": "191;191;191",
+   "RGB Hex": "BFBFBF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey76",
+   "Credits": "X",
+   "R;G;B Dec": "194;194;194",
+   "RGB Hex": "C2C2C2",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey77",
+   "Credits": "X",
+   "R;G;B Dec": "196;196;196",
+   "RGB Hex": "C4C4C4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey78",
+   "Credits": "X",
+   "R;G;B Dec": "199;199;199",
+   "RGB Hex": "C7C7C7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey79",
+   "Credits": "X",
+   "R;G;B Dec": "201;201;201",
+   "RGB Hex": "C9C9C9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey80",
+   "Credits": "X",
+   "R;G;B Dec": "204;204;204",
+   "RGB Hex": "CCCCCC",
+   "CSS Hex": "ccc",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey81",
+   "Credits": "X",
+   "R;G;B Dec": "207;207;207",
+   "RGB Hex": "CFCFCF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey82",
+   "Credits": "X",
+   "R;G;B Dec": "209;209;209",
+   "RGB Hex": "D1D1D1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey83",
+   "Credits": "X",
+   "R;G;B Dec": "212;212;212",
+   "RGB Hex": "D4D4D4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey84",
+   "Credits": "X",
+   "R;G;B Dec": "214;214;214",
+   "RGB Hex": "D6D6D6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey85",
+   "Credits": "X",
+   "R;G;B Dec": "217;217;217",
+   "RGB Hex": "D9D9D9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey86",
+   "Credits": "X",
+   "R;G;B Dec": "219;219;219",
+   "RGB Hex": "DBDBDB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey87",
+   "Credits": "X",
+   "R;G;B Dec": "222;222;222",
+   "RGB Hex": "DEDEDE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "221;221;221",
+   "RGB Hex": "DDDDDD",
+   "CSS Hex": "ddd",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey88",
+   "Credits": "X",
+   "R;G;B Dec": "224;224;224",
+   "RGB Hex": "E0E0E0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey89",
+   "Credits": "X",
+   "R;G;B Dec": "227;227;227",
+   "RGB Hex": "E3E3E3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey90",
+   "Credits": "X",
+   "R;G;B Dec": "229;229;229",
+   "RGB Hex": "E5E5E5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey91",
+   "Credits": "X",
+   "R;G;B Dec": "232;232;232",
+   "RGB Hex": "E8E8E8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey92",
+   "Credits": "X",
+   "R;G;B Dec": "235;235;235",
+   "RGB Hex": "EBEBEB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey93",
+   "Credits": "X",
+   "R;G;B Dec": "237;237;237",
+   "RGB Hex": "EDEDED",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "238;238;238",
+   "RGB Hex": "EEEEEE",
+   "CSS Hex": "eee",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey94",
+   "Credits": "X",
+   "R;G;B Dec": "240;240;240",
+   "RGB Hex": "F0F0F0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey95",
+   "Credits": "X",
+   "R;G;B Dec": "242;242;242",
+   "RGB Hex": "F2F2F2",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey96",
+   "Credits": "X",
+   "R;G;B Dec": "245;245;245",
+   "RGB Hex": "F5F5F5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey97",
+   "Credits": "X",
+   "R;G;B Dec": "247;247;247",
+   "RGB Hex": "F7F7F7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey98",
+   "Credits": "X",
+   "R;G;B Dec": "250;250;250",
+   "RGB Hex": "FAFAFA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey99",
+   "Credits": "X",
+   "R;G;B Dec": "252;252;252",
+   "RGB Hex": "FCFCFC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "grey100, White",
+   "Credits": "X",
+   "R;G;B Dec": "255;255;255",
+   "RGB Hex": "FFFFFF",
+   "CSS Hex": "fff",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Slate Grey",
+   "Credits": "N",
+   "R;G;B Dec": "47;79;79",
+   "RGB Hex": "2F4F4F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dim Grey",
+   "Credits": "N",
+   "R;G;B Dec": "84;84;84",
+   "RGB Hex": "545454",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Very Light Grey",
+   "Credits": "N",
+   "R;G;B Dec": "205;205;205",
+   "RGB Hex": "CDCDCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Free Speech Grey",
+   "Credits": "F",
+   "R;G;B Dec": "99;86;136",
+   "RGB Hex": "635688",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "AliceBlue",
+   "Credits": "X",
+   "R;G;B Dec": "240;248;255",
+   "RGB Hex": "F0F8FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "BlueViolet",
+   "Credits": "X",
+   "R;G;B Dec": "138;43;226",
+   "RGB Hex": "8A2BE2",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Cadet Blue",
+   "Credits": "N",
+   "R;G;B Dec": "95;159;159",
+   "RGB Hex": "5F9F9F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CadetBlue",
+   "Credits": "X",
+   "R;G;B Dec": "95;158;160",
+   "RGB Hex": "5F9EA0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CadetBlue",
+   "Credits": "X",
+   "R;G;B Dec": "95;158;160",
+   "RGB Hex": "5F9EA0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CadetBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "152;245;255",
+   "RGB Hex": "98F5FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CadetBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "142;229;238",
+   "RGB Hex": "8EE5EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CadetBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "122;197;205",
+   "RGB Hex": "7AC5CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CadetBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "83;134;139",
+   "RGB Hex": "53868B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Corn Flower Blue",
+   "Credits": "N",
+   "R;G;B Dec": "66;66;111",
+   "RGB Hex": "42426F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CornflowerBlue",
+   "Credits": "X",
+   "R;G;B Dec": "100;149;237",
+   "RGB Hex": "6495ED",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSlateBlue",
+   "Credits": "X",
+   "R;G;B Dec": "72;61;139",
+   "RGB Hex": "483D8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkTurquoise",
+   "Credits": "X",
+   "R;G;B Dec": "0;206;209",
+   "RGB Hex": "00CED1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepSkyBlue",
+   "Credits": "X",
+   "R;G;B Dec": "0;191;255",
+   "RGB Hex": "00BFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepSkyBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "0;191;255",
+   "RGB Hex": "00BFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepSkyBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "0;178;238",
+   "RGB Hex": "00B2EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepSkyBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "0;154;205",
+   "RGB Hex": "009ACD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepSkyBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "0;104;139",
+   "RGB Hex": "00688B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DodgerBlue",
+   "Credits": "X",
+   "R;G;B Dec": "30;144;255",
+   "RGB Hex": "1E90FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DodgerBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "30;144;255",
+   "RGB Hex": "1E90FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DodgerBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "28;134;238",
+   "RGB Hex": "1C86EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DodgerBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "24;116;205",
+   "RGB Hex": "1874CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DodgerBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "16;78;139",
+   "RGB Hex": "104E8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "170;187;204",
+   "RGB Hex": "AABBCC",
+   "CSS Hex": "abc",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightBlue",
+   "Credits": "X",
+   "R;G;B Dec": "173;216;230",
+   "RGB Hex": "ADD8E6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "191;239;255",
+   "RGB Hex": "BFEFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "178;223;238",
+   "RGB Hex": "B2DFEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "154;192;205",
+   "RGB Hex": "9AC0CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "104;131;139",
+   "RGB Hex": "68838B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightCyan",
+   "Credits": "X",
+   "R;G;B Dec": "224;255;255",
+   "RGB Hex": "E0FFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightCyan1",
+   "Credits": "X",
+   "R;G;B Dec": "224;255;255",
+   "RGB Hex": "E0FFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightCyan2",
+   "Credits": "X",
+   "R;G;B Dec": "209;238;238",
+   "RGB Hex": "D1EEEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightCyan3",
+   "Credits": "X",
+   "R;G;B Dec": "180;205;205",
+   "RGB Hex": "B4CDCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightCyan4",
+   "Credits": "X",
+   "R;G;B Dec": "122;139;139",
+   "RGB Hex": "7A8B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSkyBlue",
+   "Credits": "X",
+   "R;G;B Dec": "135;206;250",
+   "RGB Hex": "87CEFA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSkyBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "176;226;255",
+   "RGB Hex": "B0E2FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSkyBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "164;211;238",
+   "RGB Hex": "A4D3EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSkyBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "141;182;205",
+   "RGB Hex": "8DB6CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSkyBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "96;123;139",
+   "RGB Hex": "607B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSlateBlue",
+   "Credits": "X",
+   "R;G;B Dec": "132;112;255",
+   "RGB Hex": "8470FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "153;204;255",
+   "RGB Hex": "99CCFF",
+   "CSS Hex": "9cf",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSteelBlue",
+   "Credits": "X",
+   "R;G;B Dec": "176;196;222",
+   "RGB Hex": "B0C4DE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSteelBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "202;225;255",
+   "RGB Hex": "CAE1FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSteelBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "188;210;238",
+   "RGB Hex": "BCD2EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSteelBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "162;181;205",
+   "RGB Hex": "A2B5CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSteelBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "110;123;139",
+   "RGB Hex": "6E7B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Aquamarine",
+   "Credits": "N",
+   "R;G;B Dec": "112;219;147",
+   "RGB Hex": "70DB93",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumBlue",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;205",
+   "RGB Hex": "0000CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumSlateBlue",
+   "Credits": "X",
+   "R;G;B Dec": "123;104;238",
+   "RGB Hex": "7B68EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumTurquoise",
+   "Credits": "X",
+   "R;G;B Dec": "72;209;204",
+   "RGB Hex": "48D1CC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MidnightBlue",
+   "Credits": "X",
+   "R;G;B Dec": "25;25;112",
+   "RGB Hex": "191970",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "NavyBlue",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;128",
+   "RGB Hex": "80",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleTurquoise",
+   "Credits": "X",
+   "R;G;B Dec": "175;238;238",
+   "RGB Hex": "AFEEEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleTurquoise1",
+   "Credits": "X",
+   "R;G;B Dec": "187;255;255",
+   "RGB Hex": "BBFFFF",
+   "CSS Hex": "bff",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleTurquoise2",
+   "Credits": "X",
+   "R;G;B Dec": "174;238;238",
+   "RGB Hex": "AEEEEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleTurquoise3",
+   "Credits": "X",
+   "R;G;B Dec": "150;205;205",
+   "RGB Hex": "96CDCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleTurquoise4",
+   "Credits": "X",
+   "R;G;B Dec": "102;139;139",
+   "RGB Hex": "668B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PowderBlue",
+   "Credits": "X",
+   "R;G;B Dec": "176;224;230",
+   "RGB Hex": "B0E0E6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RoyalBlue",
+   "Credits": "X",
+   "R;G;B Dec": "65;105;225",
+   "RGB Hex": "4.17E+04",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RoyalBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "72;118;255",
+   "RGB Hex": "4876FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RoyalBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "67;110;238",
+   "RGB Hex": "436EEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RoyalBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "58;95;205",
+   "RGB Hex": "3A5FCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RoyalBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "39;64;139",
+   "RGB Hex": "27408B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RoyalBlue5",
+   "Credits": "X",
+   "R;G;B Dec": "0;34;102",
+   "RGB Hex": "2266",
+   "CSS Hex": "26",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SkyBlue",
+   "Credits": "X",
+   "R;G;B Dec": "135;206;235",
+   "RGB Hex": "87CEEB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SkyBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "135;206;255",
+   "RGB Hex": "87CEFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SkyBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "126;192;238",
+   "RGB Hex": "7EC0EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SkyBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "108;166;205",
+   "RGB Hex": "6CA6CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SkyBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "74;112;139",
+   "RGB Hex": "4A708B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateBlue",
+   "Credits": "X",
+   "R;G;B Dec": "106;90;205",
+   "RGB Hex": "6A5ACD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "131;111;255",
+   "RGB Hex": "836FFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "122;103;238",
+   "RGB Hex": "7A67EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "105;89;205",
+   "RGB Hex": "6959CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SlateBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "71;60;139",
+   "RGB Hex": "473C8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SteelBlue",
+   "Credits": "X",
+   "R;G;B Dec": "70;130;180",
+   "RGB Hex": "4682B4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SteelBlue1",
+   "Credits": "X",
+   "R;G;B Dec": "99;184;255",
+   "RGB Hex": "63B8FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SteelBlue2",
+   "Credits": "X",
+   "R;G;B Dec": "92;172;238",
+   "RGB Hex": "5CACEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SteelBlue3",
+   "Credits": "X",
+   "R;G;B Dec": "79;148;205",
+   "RGB Hex": "4F94CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SteelBlue4",
+   "Credits": "X",
+   "R;G;B Dec": "54;100;139",
+   "RGB Hex": "36648B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "51;102;153",
+   "RGB Hex": "336699",
+   "CSS Hex": "369",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "51;153;204",
+   "RGB Hex": "3399CC",
+   "CSS Hex": "39c",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "102;153;204",
+   "RGB Hex": "6699CC",
+   "CSS Hex": "69c",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "aquamarine",
+   "Credits": "X",
+   "R;G;B Dec": "127;255;212",
+   "RGB Hex": "7FFFD4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "aquamarine1",
+   "Credits": "X",
+   "R;G;B Dec": "127;255;212",
+   "RGB Hex": "7FFFD4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "aquamarine2",
+   "Credits": "X",
+   "R;G;B Dec": "118;238;198",
+   "RGB Hex": "76EEC6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "aquamarine3, MediumAquamarine",
+   "Credits": "X",
+   "R;G;B Dec": "102;205;170",
+   "RGB Hex": "66CDAA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "aquamarine4",
+   "Credits": "X",
+   "R;G;B Dec": "69;139;116",
+   "RGB Hex": "458B74",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "azure",
+   "Credits": "X",
+   "R;G;B Dec": "240;255;255",
+   "RGB Hex": "F0FFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "azure1",
+   "Credits": "X",
+   "R;G;B Dec": "240;255;255",
+   "RGB Hex": "F0FFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "azure2",
+   "Credits": "X",
+   "R;G;B Dec": "224;238;238",
+   "RGB Hex": "E0EEEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "azure3",
+   "Credits": "X",
+   "R;G;B Dec": "193;205;205",
+   "RGB Hex": "C1CDCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "azure4",
+   "Credits": "X",
+   "R;G;B Dec": "131;139;139",
+   "RGB Hex": "838B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "blue",
+   "Credits": "N,V,X",
+   "R;G;B Dec": "0;0;255",
+   "RGB Hex": "0000FF",
+   "CSS Hex": "00f",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "blue1",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;255",
+   "RGB Hex": "0000FF",
+   "CSS Hex": "00f",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "blue2",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;238",
+   "RGB Hex": "0000EE",
+   "CSS Hex": "00e",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "blue3",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;205",
+   "RGB Hex": "0000CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "blue4",
+   "Credits": "X",
+   "R;G;B Dec": "0;0;139",
+   "RGB Hex": "00008B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "aqua",
+   "Credits": "V",
+   "R;G;B Dec": "0;255;255",
+   "RGB Hex": "00FFFF",
+   "CSS Hex": "0ff",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "True Iris Blue",
+   "Credits": "",
+   "R;G;B Dec": "3;180;204",
+   "RGB Hex": "03B4CC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "#©2007 walsh@njit.edu#"
+   }
+},
+ {
+   "Color Name": "cyan",
+   "Credits": "N,X",
+   "R;G;B Dec": "0;255;255",
+   "RGB Hex": "00FFFF",
+   "CSS Hex": "0ff",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cyan1",
+   "Credits": "X",
+   "R;G;B Dec": "0;255;255",
+   "RGB Hex": "00FFFF",
+   "CSS Hex": "0ff",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cyan2",
+   "Credits": "X",
+   "R;G;B Dec": "0;238;238",
+   "RGB Hex": "00EEEE",
+   "CSS Hex": "0ee",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cyan3",
+   "Credits": "X",
+   "R;G;B Dec": "0;205;205",
+   "RGB Hex": "00CDCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cyan4",
+   "Credits": "X",
+   "R;G;B Dec": "0;139;139",
+   "RGB Hex": "008B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "navy",
+   "Credits": "V,X",
+   "R;G;B Dec": "0;0;128",
+   "RGB Hex": "80",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "teal",
+   "Credits": "V",
+   "R;G;B Dec": "0;128;128",
+   "RGB Hex": "8080",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "turquoise",
+   "Credits": "X",
+   "R;G;B Dec": "64;224;208",
+   "RGB Hex": "40E0D0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "turquoise1",
+   "Credits": "X",
+   "R;G;B Dec": "0;245;255",
+   "RGB Hex": "00F5FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "turquoise2",
+   "Credits": "X",
+   "R;G;B Dec": "0;229;238",
+   "RGB Hex": "00E5EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "turquoise3",
+   "Credits": "X",
+   "R;G;B Dec": "0;197;205",
+   "RGB Hex": "00C5CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "turquoise4",
+   "Credits": "X",
+   "R;G;B Dec": "0;134;139",
+   "RGB Hex": "00868B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### (c) 1999 walsh@njit.edu ###"
+   }
+},
+ {
+   "Color Name": "DarkSlateGray",
+   "Credits": "X",
+   "R;G;B Dec": "47;79;79",
+   "RGB Hex": "2F4F4F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSlateGray1",
+   "Credits": "X",
+   "R;G;B Dec": "151;255;255",
+   "RGB Hex": "97FFFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSlateGray2",
+   "Credits": "X",
+   "R;G;B Dec": "141;238;238",
+   "RGB Hex": "8DEEEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSlateGray3",
+   "Credits": "X",
+   "R;G;B Dec": "121;205;205",
+   "RGB Hex": "79CDCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSlateGray4",
+   "Credits": "X",
+   "R;G;B Dec": "82;139;139",
+   "RGB Hex": "528B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Slate Blue",
+   "Credits": "N",
+   "R;G;B Dec": "36;24;130",
+   "RGB Hex": "241882",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Turquoise",
+   "Credits": "N",
+   "R;G;B Dec": "112;147;219",
+   "RGB Hex": "7093DB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Slate Blue",
+   "Credits": "N",
+   "R;G;B Dec": "127;0;255",
+   "RGB Hex": "7F00FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Turquoise",
+   "Credits": "N",
+   "R;G;B Dec": "112;219;219",
+   "RGB Hex": "70DBDB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Midnight Blue",
+   "Credits": "N",
+   "R;G;B Dec": "47;47;79",
+   "RGB Hex": "2F2F4F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Navy Blue",
+   "Credits": "N",
+   "R;G;B Dec": "35;35;142",
+   "RGB Hex": "23238E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Neon Blue",
+   "Credits": "N",
+   "R;G;B Dec": "77;77;255",
+   "RGB Hex": "4D4DFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "New Midnight Blue",
+   "Credits": "N",
+   "R;G;B Dec": "0;0;156",
+   "RGB Hex": "00009C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Rich Blue",
+   "Credits": "N",
+   "R;G;B Dec": "89;89;171",
+   "RGB Hex": "5959AB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Sky Blue",
+   "Credits": "N",
+   "R;G;B Dec": "50;153;204",
+   "RGB Hex": "3299CC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Slate Blue",
+   "Credits": "N",
+   "R;G;B Dec": "0;127;255",
+   "RGB Hex": "007FFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Summer Sky",
+   "Credits": "N",
+   "R;G;B Dec": "56;176;222",
+   "RGB Hex": "38B0DE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Iris Blue",
+   "Credits": "",
+   "R;G;B Dec": "3;180;200",
+   "RGB Hex": "03B4C8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "#©2007 walsh@njit.edu#"
+   }
+},
+ {
+   "Color Name": "Free Speech Blue",
+   "Credits": "F",
+   "R;G;B Dec": "65;86;197",
+   "RGB Hex": "4156C5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RosyBrown",
+   "Credits": "X",
+   "R;G;B Dec": "188;143;143",
+   "RGB Hex": "BC8F8F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RosyBrown1",
+   "Credits": "X",
+   "R;G;B Dec": "255;193;193",
+   "RGB Hex": "FFC1C1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RosyBrown2",
+   "Credits": "X",
+   "R;G;B Dec": "238;180;180",
+   "RGB Hex": "EEB4B4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RosyBrown3",
+   "Credits": "X",
+   "R;G;B Dec": "205;155;155",
+   "RGB Hex": "CD9B9B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "RosyBrown4",
+   "Credits": "X",
+   "R;G;B Dec": "139;105;105",
+   "RGB Hex": "8B6969",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SaddleBrown",
+   "Credits": "X",
+   "R;G;B Dec": "139;69;19",
+   "RGB Hex": "8B4513",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SandyBrown",
+   "Credits": "X",
+   "R;G;B Dec": "244;164;96",
+   "RGB Hex": "F4A460",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "beige",
+   "Credits": "X",
+   "R;G;B Dec": "245;245;220",
+   "RGB Hex": "F5F5DC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brown",
+   "Credits": "X",
+   "R;G;B Dec": "165;42;42",
+   "RGB Hex": "A52A2A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brown",
+   "Credits": "N",
+   "R;G;B Dec": "166;42;42",
+   "RGB Hex": "A62A2A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brown1",
+   "Credits": "X",
+   "R;G;B Dec": "255;64;64",
+   "RGB Hex": "FF4040",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brown2",
+   "Credits": "X",
+   "R;G;B Dec": "238;59;59",
+   "RGB Hex": "EE3B3B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brown3",
+   "Credits": "X",
+   "R;G;B Dec": "205;51;51",
+   "RGB Hex": "CD3333",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brown4",
+   "Credits": "X",
+   "R;G;B Dec": "139;35;35",
+   "RGB Hex": "8B2323",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "dark brown",
+   "Credits": "N",
+   "R;G;B Dec": "92;64;51",
+   "RGB Hex": "5C4033",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "burlywood",
+   "Credits": "X",
+   "R;G;B Dec": "222;184;135",
+   "RGB Hex": "DEB887",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "burlywood1",
+   "Credits": "X",
+   "R;G;B Dec": "255;211;155",
+   "RGB Hex": "FFD39B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "burlywood2",
+   "Credits": "X",
+   "R;G;B Dec": "238;197;145",
+   "RGB Hex": "EEC591",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "burlywood3",
+   "Credits": "X",
+   "R;G;B Dec": "205;170;125",
+   "RGB Hex": "CDAA7D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "burlywood4",
+   "Credits": "X",
+   "R;G;B Dec": "139;115;85",
+   "RGB Hex": "8B7355",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "baker's chocolate",
+   "Credits": "N",
+   "R;G;B Dec": "92;51;23",
+   "RGB Hex": "5C3317",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chocolate",
+   "Credits": "X",
+   "R;G;B Dec": "210;105;30",
+   "RGB Hex": "D2691E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chocolate1",
+   "Credits": "X",
+   "R;G;B Dec": "255;127;36",
+   "RGB Hex": "FF7F24",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chocolate2",
+   "Credits": "X",
+   "R;G;B Dec": "238;118;33",
+   "RGB Hex": "EE7621",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chocolate3",
+   "Credits": "X",
+   "R;G;B Dec": "205;102;29",
+   "RGB Hex": "CD661D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chocolate4",
+   "Credits": "X",
+   "R;G;B Dec": "139;69;19",
+   "RGB Hex": "8B4513",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "peru",
+   "Credits": "X",
+   "R;G;B Dec": "205;133;63",
+   "RGB Hex": "CD853F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tan",
+   "Credits": "X",
+   "R;G;B Dec": "210;180;140",
+   "RGB Hex": "D2B48C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tan1",
+   "Credits": "X",
+   "R;G;B Dec": "255;165;79",
+   "RGB Hex": "FFA54F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tan2",
+   "Credits": "X",
+   "R;G;B Dec": "238;154;73",
+   "RGB Hex": "EE9A49",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tan3",
+   "Credits": "X",
+   "R;G;B Dec": "205;133;63",
+   "RGB Hex": "CD853F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tan4",
+   "Credits": "X",
+   "R;G;B Dec": "139;90;43",
+   "RGB Hex": "8B5A2B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### (c) 1999 walsh@njit.edu ###"
+   }
+},
+ {
+   "Color Name": "Dark Tan",
+   "Credits": "N",
+   "R;G;B Dec": "151;105;79",
+   "RGB Hex": "97694F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Wood",
+   "Credits": "N",
+   "R;G;B Dec": "133;94;66",
+   "RGB Hex": "8.55E+44",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Light Wood",
+   "Credits": "N",
+   "R;G;B Dec": "133;99;99",
+   "RGB Hex": "856363",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Wood",
+   "Credits": "N",
+   "R;G;B Dec": "166;128;100",
+   "RGB Hex": "A68064",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "New Tan",
+   "Credits": "N",
+   "R;G;B Dec": "235;199;158",
+   "RGB Hex": "EBC79E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Semi-Sweet Chocolate",
+   "Credits": "N",
+   "R;G;B Dec": "107;66;38",
+   "RGB Hex": "6B4226",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Sienna",
+   "Credits": "N",
+   "R;G;B Dec": "142;107;35",
+   "RGB Hex": "8E6B23",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Tan",
+   "Credits": "N",
+   "R;G;B Dec": "219;147;112",
+   "RGB Hex": "DB9370",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Very Dark Brown",
+   "Credits": "N",
+   "R;G;B Dec": "92;64;51",
+   "RGB Hex": "5C4033",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Green",
+   "Credits": "N",
+   "R;G;B Dec": "47;79;47",
+   "RGB Hex": "2F4F2F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkGreen",
+   "Credits": "X",
+   "R;G;B Dec": "0;100;0",
+   "RGB Hex": "6400",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "dark green copper",
+   "Credits": "N",
+   "R;G;B Dec": "74;118;110",
+   "RGB Hex": "4A766E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkKhaki",
+   "Credits": "X",
+   "R;G;B Dec": "189;183;107",
+   "RGB Hex": "BDB76B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOliveGreen",
+   "Credits": "X",
+   "R;G;B Dec": "85;107;47",
+   "RGB Hex": "556B2F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOliveGreen1",
+   "Credits": "X",
+   "R;G;B Dec": "202;255;112",
+   "RGB Hex": "CAFF70",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOliveGreen2",
+   "Credits": "X",
+   "R;G;B Dec": "188;238;104",
+   "RGB Hex": "BCEE68",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOliveGreen3",
+   "Credits": "X",
+   "R;G;B Dec": "162;205;90",
+   "RGB Hex": "A2CD5A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOliveGreen4",
+   "Credits": "X",
+   "R;G;B Dec": "110;139;61",
+   "RGB Hex": "6E8B3D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "olive",
+   "Credits": "V",
+   "R;G;B Dec": "128;128;0",
+   "RGB Hex": "808000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSeaGreen",
+   "Credits": "X",
+   "R;G;B Dec": "143;188;143",
+   "RGB Hex": "8FBC8F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSeaGreen1",
+   "Credits": "X",
+   "R;G;B Dec": "193;255;193",
+   "RGB Hex": "C1FFC1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSeaGreen2",
+   "Credits": "X",
+   "R;G;B Dec": "180;238;180",
+   "RGB Hex": "B4EEB4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSeaGreen3",
+   "Credits": "X",
+   "R;G;B Dec": "155;205;155",
+   "RGB Hex": "9BCD9B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSeaGreen4",
+   "Credits": "X",
+   "R;G;B Dec": "105;139;105",
+   "RGB Hex": "698B69",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "ForestGreen",
+   "Credits": "X",
+   "R;G;B Dec": "34;139;34",
+   "RGB Hex": "228B22",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "GreenYellow",
+   "Credits": "X",
+   "R;G;B Dec": "173;255;47",
+   "RGB Hex": "ADFF2F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LawnGreen",
+   "Credits": "X",
+   "R;G;B Dec": "124;252;0",
+   "RGB Hex": "7CFC00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSeaGreen",
+   "Credits": "X",
+   "R;G;B Dec": "32;178;170",
+   "RGB Hex": "20B2AA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LimeGreen",
+   "Credits": "X",
+   "R;G;B Dec": "50;205;50",
+   "RGB Hex": "32CD32",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumSeaGreen",
+   "Credits": "X",
+   "R;G;B Dec": "60;179;113",
+   "RGB Hex": "3CB371",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumSpringGreen",
+   "Credits": "X",
+   "R;G;B Dec": "0;250;154",
+   "RGB Hex": "00FA9A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MintCream",
+   "Credits": "X",
+   "R;G;B Dec": "245;255;250",
+   "RGB Hex": "F5FFFA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OliveDrab",
+   "Credits": "X",
+   "R;G;B Dec": "107;142;35",
+   "RGB Hex": "6B8E23",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OliveDrab1",
+   "Credits": "X",
+   "R;G;B Dec": "192;255;62",
+   "RGB Hex": "C0FF3E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OliveDrab2",
+   "Credits": "X",
+   "R;G;B Dec": "179;238;58",
+   "RGB Hex": "B3EE3A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OliveDrab3",
+   "Credits": "X",
+   "R;G;B Dec": "154;205;50",
+   "RGB Hex": "9ACD32",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OliveDrab4",
+   "Credits": "X",
+   "R;G;B Dec": "105;139;34",
+   "RGB Hex": "698B22",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleGreen",
+   "Credits": "X",
+   "R;G;B Dec": "152;251;152",
+   "RGB Hex": "98FB98",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleGreen1",
+   "Credits": "X",
+   "R;G;B Dec": "154;255;154",
+   "RGB Hex": "9AFF9A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleGreen2",
+   "Credits": "X",
+   "R;G;B Dec": "144;238;144",
+   "RGB Hex": "90EE90",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleGreen3",
+   "Credits": "X",
+   "R;G;B Dec": "124;205;124",
+   "RGB Hex": "7CCD7C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleGreen4",
+   "Credits": "X",
+   "R;G;B Dec": "84;139;84",
+   "RGB Hex": "548B54",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SeaGreen, SeaGreen4",
+   "Credits": "X",
+   "R;G;B Dec": "46;139;87",
+   "RGB Hex": "2E8B57",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SeaGreen1",
+   "Credits": "X",
+   "R;G;B Dec": "84;255;159",
+   "RGB Hex": "54FF9F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SeaGreen2",
+   "Credits": "X",
+   "R;G;B Dec": "78;238;148",
+   "RGB Hex": "4EEE94",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SeaGreen3",
+   "Credits": "X",
+   "R;G;B Dec": "67;205;128",
+   "RGB Hex": "43CD80",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SpringGreen",
+   "Credits": "X",
+   "R;G;B Dec": "0;255;127",
+   "RGB Hex": "00FF7F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SpringGreen1",
+   "Credits": "X",
+   "R;G;B Dec": "0;255;127",
+   "RGB Hex": "00FF7F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SpringGreen2",
+   "Credits": "X",
+   "R;G;B Dec": "0;238;118",
+   "RGB Hex": "00EE76",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SpringGreen3",
+   "Credits": "X",
+   "R;G;B Dec": "0;205;102",
+   "RGB Hex": "00CD66",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "SpringGreen4",
+   "Credits": "X",
+   "R;G;B Dec": "0;139;69",
+   "RGB Hex": "008B45",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "#©2006 walsh@njit.edu#"
+   }
+},
+ {
+   "Color Name": "YellowGreen",
+   "Credits": "X",
+   "R;G;B Dec": "154;205;50",
+   "RGB Hex": "9ACD32",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chartreuse",
+   "Credits": "X",
+   "R;G;B Dec": "127;255;0",
+   "RGB Hex": "7FFF00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chartreuse1",
+   "Credits": "X",
+   "R;G;B Dec": "127;255;0",
+   "RGB Hex": "7FFF00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chartreuse2",
+   "Credits": "X",
+   "R;G;B Dec": "118;238;0",
+   "RGB Hex": "76EE00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chartreuse3",
+   "Credits": "X",
+   "R;G;B Dec": "102;205;0",
+   "RGB Hex": "66CD00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "chartreuse4",
+   "Credits": "X",
+   "R;G;B Dec": "69;139;0",
+   "RGB Hex": "458B00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "green",
+   "Credits": "N,X",
+   "R;G;B Dec": "0;255;0",
+   "RGB Hex": "00FF00",
+   "CSS Hex": "0f0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "green",
+   "Credits": "V",
+   "R;G;B Dec": "0;128;0",
+   "RGB Hex": "8000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "lime",
+   "Credits": "V",
+   "R;G;B Dec": "0;255;0",
+   "RGB Hex": "00FF00",
+   "CSS Hex": "0f0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "green1",
+   "Credits": "X",
+   "R;G;B Dec": "0;255;0",
+   "RGB Hex": "00FF00",
+   "CSS Hex": "0f0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "green2",
+   "Credits": "X",
+   "R;G;B Dec": "0;238;0",
+   "RGB Hex": "00EE00",
+   "CSS Hex": "0.00E+00",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "green3",
+   "Credits": "X",
+   "R;G;B Dec": "0;205;0",
+   "RGB Hex": "00CD00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "green4",
+   "Credits": "X",
+   "R;G;B Dec": "0;139;0",
+   "RGB Hex": "008B00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "khaki",
+   "Credits": "X",
+   "R;G;B Dec": "240;230;140",
+   "RGB Hex": "F0E68C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "khaki1",
+   "Credits": "X",
+   "R;G;B Dec": "255;246;143",
+   "RGB Hex": "FFF68F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "khaki2",
+   "Credits": "X",
+   "R;G;B Dec": "238;230;133",
+   "RGB Hex": "EEE685",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "khaki3",
+   "Credits": "X",
+   "R;G;B Dec": "205;198;115",
+   "RGB Hex": "CDC673",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "khaki4",
+   "Credits": "X",
+   "R;G;B Dec": "139;134;78",
+   "RGB Hex": "8B864E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Olive Green",
+   "Credits": "N",
+   "R;G;B Dec": "79;79;47",
+   "RGB Hex": "4F4F2F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Green Yellow [sic]",
+   "Credits": "N",
+   "R;G;B Dec": "209;146;117",
+   "RGB Hex": "D19275",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Hunter Green [sic]",
+   "Credits": "N",
+   "R;G;B Dec": "142;35;35",
+   "RGB Hex": "8E2323",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Forest Green, Khaki, Medium Aquamarine",
+   "Credits": "N",
+   "R;G;B Dec": "35;142;35",
+   "RGB Hex": "2.38E+25",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Forest Green",
+   "Credits": "N",
+   "R;G;B Dec": "219;219;112",
+   "RGB Hex": "DBDB70",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Sea Green",
+   "Credits": "N",
+   "R;G;B Dec": "66;111;66",
+   "RGB Hex": "426F42",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Spring Green",
+   "Credits": "N",
+   "R;G;B Dec": "127;255;0",
+   "RGB Hex": "7FFF00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Pale Green",
+   "Credits": "N",
+   "R;G;B Dec": "143;188;143",
+   "RGB Hex": "8FBC8F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Sea Green",
+   "Credits": "N",
+   "R;G;B Dec": "35;142;104",
+   "RGB Hex": "2.38E+70",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Spring Green",
+   "Credits": "N",
+   "R;G;B Dec": "0;255;127",
+   "RGB Hex": "00FF7F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Free Speech Green",
+   "Credits": "F",
+   "R;G;B Dec": "9;249;17",
+   "RGB Hex": "09F911",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Free Speech Aquamarine",
+   "Credits": "F",
+   "R;G;B Dec": "2;157;116",
+   "RGB Hex": "029D74",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrange",
+   "Credits": "X",
+   "R;G;B Dec": "255;140;0",
+   "RGB Hex": "FF8C00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrange1",
+   "Credits": "X",
+   "R;G;B Dec": "255;127;0",
+   "RGB Hex": "FF7F00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrange2",
+   "Credits": "X",
+   "R;G;B Dec": "238;118;0",
+   "RGB Hex": "EE7600",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrange3",
+   "Credits": "X",
+   "R;G;B Dec": "205;102;0",
+   "RGB Hex": "CD6600",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrange4",
+   "Credits": "X",
+   "R;G;B Dec": "139;69;0",
+   "RGB Hex": "8B4500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkSalmon",
+   "Credits": "X",
+   "R;G;B Dec": "233;150;122",
+   "RGB Hex": "E9967A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightCoral",
+   "Credits": "X",
+   "R;G;B Dec": "240;128;128",
+   "RGB Hex": "F08080",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSalmon",
+   "Credits": "X",
+   "R;G;B Dec": "255;160;122",
+   "RGB Hex": "FFA07A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSalmon1",
+   "Credits": "X",
+   "R;G;B Dec": "255;160;122",
+   "RGB Hex": "FFA07A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSalmon2",
+   "Credits": "X",
+   "R;G;B Dec": "238;149;114",
+   "RGB Hex": "EE9572",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSalmon3",
+   "Credits": "X",
+   "R;G;B Dec": "205;129;98",
+   "RGB Hex": "CD8162",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightSalmon4",
+   "Credits": "X",
+   "R;G;B Dec": "139;87;66",
+   "RGB Hex": "8B5742",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PeachPuff",
+   "Credits": "X",
+   "R;G;B Dec": "255;218;185",
+   "RGB Hex": "FFDAB9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PeachPuff1",
+   "Credits": "X",
+   "R;G;B Dec": "255;218;185",
+   "RGB Hex": "FFDAB9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PeachPuff2",
+   "Credits": "X",
+   "R;G;B Dec": "238;203;173",
+   "RGB Hex": "EECBAD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PeachPuff3",
+   "Credits": "X",
+   "R;G;B Dec": "205;175;149",
+   "RGB Hex": "CDAF95",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PeachPuff4",
+   "Credits": "X",
+   "R;G;B Dec": "139;119;101",
+   "RGB Hex": "8B7765",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bisque",
+   "Credits": "X",
+   "R;G;B Dec": "255;228;196",
+   "RGB Hex": "FFE4C4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bisque1",
+   "Credits": "X",
+   "R;G;B Dec": "255;228;196",
+   "RGB Hex": "FFE4C4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bisque2",
+   "Credits": "X",
+   "R;G;B Dec": "238;213;183",
+   "RGB Hex": "EED5B7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bisque3",
+   "Credits": "X",
+   "R;G;B Dec": "205;183;158",
+   "RGB Hex": "CDB79E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bisque4",
+   "Credits": "X",
+   "R;G;B Dec": "139;125;107",
+   "RGB Hex": "8B7D6B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "coral",
+   "Credits": "N",
+   "R;G;B Dec": "255;127;0",
+   "RGB Hex": "FF7F00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "coral",
+   "Credits": "X",
+   "R;G;B Dec": "255;127;80",
+   "RGB Hex": "FF7F50",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "coral1",
+   "Credits": "X",
+   "R;G;B Dec": "255;114;86",
+   "RGB Hex": "FF7256",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "coral2",
+   "Credits": "X",
+   "R;G;B Dec": "238;106;80",
+   "RGB Hex": "EE6A50",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "coral3",
+   "Credits": "X",
+   "R;G;B Dec": "205;91;69",
+   "RGB Hex": "CD5B45",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "coral4",
+   "Credits": "X",
+   "R;G;B Dec": "139;62;47",
+   "RGB Hex": "8B3E2F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "honeydew",
+   "Credits": "X",
+   "R;G;B Dec": "240;255;240",
+   "RGB Hex": "F0FFF0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "honeydew1",
+   "Credits": "X",
+   "R;G;B Dec": "240;255;240",
+   "RGB Hex": "F0FFF0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "honeydew2",
+   "Credits": "X",
+   "R;G;B Dec": "224;238;224",
+   "RGB Hex": "E0EEE0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "honeydew3",
+   "Credits": "X",
+   "R;G;B Dec": "193;205;193",
+   "RGB Hex": "C1CDC1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "honeydew4",
+   "Credits": "X",
+   "R;G;B Dec": "131;139;131",
+   "RGB Hex": "838B83",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orange",
+   "Credits": "X",
+   "R;G;B Dec": "255;165;0",
+   "RGB Hex": "FFA500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orange1",
+   "Credits": "X",
+   "R;G;B Dec": "255;165;0",
+   "RGB Hex": "FFA500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orange2",
+   "Credits": "X",
+   "R;G;B Dec": "238;154;0",
+   "RGB Hex": "EE9A00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orange3",
+   "Credits": "X",
+   "R;G;B Dec": "205;133;0",
+   "RGB Hex": "CD8500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orange4",
+   "Credits": "X",
+   "R;G;B Dec": "139;90;0",
+   "RGB Hex": "8B5A00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "salmon",
+   "Credits": "X",
+   "R;G;B Dec": "250;128;114",
+   "RGB Hex": "FA8072",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "salmon1",
+   "Credits": "X",
+   "R;G;B Dec": "255;140;105",
+   "RGB Hex": "FF8C69",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "salmon2",
+   "Credits": "X",
+   "R;G;B Dec": "238;130;98",
+   "RGB Hex": "EE8262",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "salmon3",
+   "Credits": "X",
+   "R;G;B Dec": "205;112;84",
+   "RGB Hex": "CD7054",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "salmon4",
+   "Credits": "X",
+   "R;G;B Dec": "139;76;57",
+   "RGB Hex": "8B4C39",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "sienna",
+   "Credits": "X",
+   "R;G;B Dec": "160;82;45",
+   "RGB Hex": "A0522D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "sienna1",
+   "Credits": "X",
+   "R;G;B Dec": "255;130;71",
+   "RGB Hex": "FF8247",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "sienna2",
+   "Credits": "X",
+   "R;G;B Dec": "238;121;66",
+   "RGB Hex": "EE7942",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "sienna3",
+   "Credits": "X",
+   "R;G;B Dec": "205;104;57",
+   "RGB Hex": "CD6839",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "sienna4",
+   "Credits": "X",
+   "R;G;B Dec": "139;71;38",
+   "RGB Hex": "8B4726",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Mandarian Orange",
+   "Credits": "N",
+   "R;G;B Dec": "142;35;35",
+   "RGB Hex": "8E2323",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Orange",
+   "Credits": "N",
+   "R;G;B Dec": "255;127;0",
+   "RGB Hex": "FF7F00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Orange Red",
+   "Credits": "N",
+   "R;G;B Dec": "255;36;0",
+   "RGB Hex": "FF2400",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepPink",
+   "Credits": "X",
+   "R;G;B Dec": "255;20;147",
+   "RGB Hex": "FF1493",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepPink1",
+   "Credits": "X",
+   "R;G;B Dec": "255;20;147",
+   "RGB Hex": "FF1493",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepPink2",
+   "Credits": "X",
+   "R;G;B Dec": "238;18;137",
+   "RGB Hex": "EE1289",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepPink3",
+   "Credits": "X",
+   "R;G;B Dec": "205;16;118",
+   "RGB Hex": "CD1076",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DeepPink4",
+   "Credits": "X",
+   "R;G;B Dec": "139;10;80",
+   "RGB Hex": "8B0A50",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "HotPink",
+   "Credits": "X",
+   "R;G;B Dec": "255;105;180",
+   "RGB Hex": "FF69B4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "HotPink1",
+   "Credits": "X",
+   "R;G;B Dec": "255;110;180",
+   "RGB Hex": "FF6EB4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "HotPink2",
+   "Credits": "X",
+   "R;G;B Dec": "238;106;167",
+   "RGB Hex": "EE6AA7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "HotPink3",
+   "Credits": "X",
+   "R;G;B Dec": "205;96;144",
+   "RGB Hex": "CD6090",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "HotPink4",
+   "Credits": "X",
+   "R;G;B Dec": "139;58;98",
+   "RGB Hex": "8B3A62",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "IndianRed",
+   "Credits": "X",
+   "R;G;B Dec": "205;92;92",
+   "RGB Hex": "CD5C5C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "IndianRed1",
+   "Credits": "X",
+   "R;G;B Dec": "255;106;106",
+   "RGB Hex": "FF6A6A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "IndianRed2",
+   "Credits": "X",
+   "R;G;B Dec": "238;99;99",
+   "RGB Hex": "EE6363",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "IndianRed3",
+   "Credits": "X",
+   "R;G;B Dec": "205;85;85",
+   "RGB Hex": "CD5555",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "IndianRed4",
+   "Credits": "X",
+   "R;G;B Dec": "139;58;58",
+   "RGB Hex": "8B3A3A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightPink",
+   "Credits": "X",
+   "R;G;B Dec": "255;182;193",
+   "RGB Hex": "FFB6C1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightPink1",
+   "Credits": "X",
+   "R;G;B Dec": "255;174;185",
+   "RGB Hex": "FFAEB9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightPink2",
+   "Credits": "X",
+   "R;G;B Dec": "238;162;173",
+   "RGB Hex": "EEA2AD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightPink3",
+   "Credits": "X",
+   "R;G;B Dec": "205;140;149",
+   "RGB Hex": "CD8C95",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightPink4",
+   "Credits": "X",
+   "R;G;B Dec": "139;95;101",
+   "RGB Hex": "8B5F65",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumVioletRed",
+   "Credits": "X",
+   "R;G;B Dec": "199;21;133",
+   "RGB Hex": "C71585",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MistyRose",
+   "Credits": "X",
+   "R;G;B Dec": "255;228;225",
+   "RGB Hex": "FFE4E1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MistyRose1",
+   "Credits": "X",
+   "R;G;B Dec": "255;228;225",
+   "RGB Hex": "FFE4E1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MistyRose2",
+   "Credits": "X",
+   "R;G;B Dec": "238;213;210",
+   "RGB Hex": "EED5D2",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MistyRose3",
+   "Credits": "X",
+   "R;G;B Dec": "205;183;181",
+   "RGB Hex": "CDB7B5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MistyRose4",
+   "Credits": "X",
+   "R;G;B Dec": "139;125;123",
+   "RGB Hex": "8B7D7B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OrangeRed",
+   "Credits": "X",
+   "R;G;B Dec": "255;69;0",
+   "RGB Hex": "FF4500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OrangeRed1",
+   "Credits": "X",
+   "R;G;B Dec": "255;69;0",
+   "RGB Hex": "FF4500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OrangeRed2",
+   "Credits": "X",
+   "R;G;B Dec": "238;64;0",
+   "RGB Hex": "EE4000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OrangeRed3",
+   "Credits": "X",
+   "R;G;B Dec": "205;55;0",
+   "RGB Hex": "CD3700",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OrangeRed4",
+   "Credits": "X",
+   "R;G;B Dec": "139;37;0",
+   "RGB Hex": "8B2500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleVioletRed",
+   "Credits": "X",
+   "R;G;B Dec": "219;112;147",
+   "RGB Hex": "DB7093",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleVioletRed1",
+   "Credits": "X",
+   "R;G;B Dec": "255;130;171",
+   "RGB Hex": "FF82AB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleVioletRed2",
+   "Credits": "X",
+   "R;G;B Dec": "238;121;159",
+   "RGB Hex": "EE799F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleVioletRed3",
+   "Credits": "X",
+   "R;G;B Dec": "205;104;137",
+   "RGB Hex": "CD6889",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleVioletRed4",
+   "Credits": "X",
+   "R;G;B Dec": "139;71;93",
+   "RGB Hex": "8B475D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "VioletRed",
+   "Credits": "X",
+   "R;G;B Dec": "208;32;144",
+   "RGB Hex": "D02090",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "VioletRed1",
+   "Credits": "X",
+   "R;G;B Dec": "255;62;150",
+   "RGB Hex": "FF3E96",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "VioletRed2",
+   "Credits": "X",
+   "R;G;B Dec": "238;58;140",
+   "RGB Hex": "EE3A8C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "VioletRed3",
+   "Credits": "X",
+   "R;G;B Dec": "205;50;120",
+   "RGB Hex": "CD3278",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "VioletRed4",
+   "Credits": "X",
+   "R;G;B Dec": "139;34;82",
+   "RGB Hex": "8B2252",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "firebrick",
+   "Credits": "X",
+   "R;G;B Dec": "178;34;34",
+   "RGB Hex": "B22222",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "firebrick1",
+   "Credits": "X",
+   "R;G;B Dec": "255;48;48",
+   "RGB Hex": "FF3030",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "firebrick2",
+   "Credits": "X",
+   "R;G;B Dec": "238;44;44",
+   "RGB Hex": "EE2C2C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "firebrick3",
+   "Credits": "X",
+   "R;G;B Dec": "205;38;38",
+   "RGB Hex": "CD2626",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "firebrick4",
+   "Credits": "X",
+   "R;G;B Dec": "139;26;26",
+   "RGB Hex": "8B1A1A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "pink",
+   "Credits": "X",
+   "R;G;B Dec": "255;192;203",
+   "RGB Hex": "FFC0CB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "pink1",
+   "Credits": "X",
+   "R;G;B Dec": "255;181;197",
+   "RGB Hex": "FFB5C5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "pink2",
+   "Credits": "X",
+   "R;G;B Dec": "238;169;184",
+   "RGB Hex": "EEA9B8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "pink3",
+   "Credits": "X",
+   "R;G;B Dec": "205;145;158",
+   "RGB Hex": "CD919E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "pink4",
+   "Credits": "X",
+   "R;G;B Dec": "139;99;108",
+   "RGB Hex": "8B636C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Flesh",
+   "Credits": "N",
+   "R;G;B Dec": "245;204;176",
+   "RGB Hex": "F5CCB0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Feldspar",
+   "Credits": "N",
+   "R;G;B Dec": "209;146;117",
+   "RGB Hex": "D19275",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "204;51;51",
+   "RGB Hex": "CC3333",
+   "CSS Hex": "c33",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "red",
+   "Credits": "N,V,X",
+   "R;G;B Dec": "255;0;0",
+   "RGB Hex": "FF0000",
+   "CSS Hex": "f00",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "red1",
+   "Credits": "X",
+   "R;G;B Dec": "255;0;0",
+   "RGB Hex": "FF0000",
+   "CSS Hex": "f00",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "red2",
+   "Credits": "X",
+   "R;G;B Dec": "238;0;0",
+   "RGB Hex": "EE0000",
+   "CSS Hex": "e00",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "red3",
+   "Credits": "X",
+   "R;G;B Dec": "205;0;0",
+   "RGB Hex": "CD0000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "red4",
+   "Credits": "X",
+   "R;G;B Dec": "139;0;0",
+   "RGB Hex": "8B0000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tomato",
+   "Credits": "X",
+   "R;G;B Dec": "255;99;71",
+   "RGB Hex": "FF6347",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tomato1",
+   "Credits": "X",
+   "R;G;B Dec": "255;99;71",
+   "RGB Hex": "FF6347",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tomato2",
+   "Credits": "X",
+   "R;G;B Dec": "238;92;66",
+   "RGB Hex": "EE5C42",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tomato3",
+   "Credits": "X",
+   "R;G;B Dec": "205;79;57",
+   "RGB Hex": "CD4F39",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "tomato4",
+   "Credits": "X",
+   "R;G;B Dec": "139;54;38",
+   "RGB Hex": "8B3626",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dusty Rose",
+   "Credits": "N",
+   "R;G;B Dec": "133;99;99",
+   "RGB Hex": "856363",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Firebrick",
+   "Credits": "N",
+   "R;G;B Dec": "142;35;35",
+   "RGB Hex": "8E2323",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Indian Red",
+   "Credits": "N",
+   "R;G;B Dec": "245;204;176",
+   "RGB Hex": "F5CCB0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Pink",
+   "Credits": "N",
+   "R;G;B Dec": "188;143;143",
+   "RGB Hex": "BC8F8F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Salmon",
+   "Credits": "N",
+   "R;G;B Dec": "111;66;66",
+   "RGB Hex": "6F4242",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Scarlet",
+   "Credits": "N",
+   "R;G;B Dec": "140;23;23",
+   "RGB Hex": "8C1717",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Spicy Pink",
+   "Credits": "N",
+   "R;G;B Dec": "255;28;174",
+   "RGB Hex": "FF1CAE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Free Speech Magenta",
+   "Credits": "F",
+   "R;G;B Dec": "227;91;216",
+   "RGB Hex": "E35BD8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Free Speech Red",
+   "Credits": "F",
+   "R;G;B Dec": "192;0;0",
+   "RGB Hex": "C00000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrchid",
+   "Credits": "X",
+   "R;G;B Dec": "153;50;204",
+   "RGB Hex": "9932CC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrchid1",
+   "Credits": "X",
+   "R;G;B Dec": "191;62;255",
+   "RGB Hex": "BF3EFF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrchid2",
+   "Credits": "X",
+   "R;G;B Dec": "178;58;238",
+   "RGB Hex": "B23AEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrchid3",
+   "Credits": "X",
+   "R;G;B Dec": "154;50;205",
+   "RGB Hex": "9A32CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkOrchid4",
+   "Credits": "X",
+   "R;G;B Dec": "104;34;139",
+   "RGB Hex": "68228B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkViolet",
+   "Credits": "X",
+   "R;G;B Dec": "148;0;211",
+   "RGB Hex": "9400D3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LavenderBlush",
+   "Credits": "X",
+   "R;G;B Dec": "255;240;245",
+   "RGB Hex": "FFF0F5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LavenderBlush1",
+   "Credits": "X",
+   "R;G;B Dec": "255;240;245",
+   "RGB Hex": "FFF0F5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LavenderBlush2",
+   "Credits": "X",
+   "R;G;B Dec": "238;224;229",
+   "RGB Hex": "EEE0E5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LavenderBlush3",
+   "Credits": "X",
+   "R;G;B Dec": "205;193;197",
+   "RGB Hex": "CDC1C5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LavenderBlush4",
+   "Credits": "X",
+   "R;G;B Dec": "139;131;134",
+   "RGB Hex": "8B8386",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumOrchid",
+   "Credits": "X",
+   "R;G;B Dec": "186;85;211",
+   "RGB Hex": "BA55D3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumOrchid1",
+   "Credits": "X",
+   "R;G;B Dec": "224;102;255",
+   "RGB Hex": "E066FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumOrchid2",
+   "Credits": "X",
+   "R;G;B Dec": "209;95;238",
+   "RGB Hex": "D15FEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumOrchid3",
+   "Credits": "X",
+   "R;G;B Dec": "180;82;205",
+   "RGB Hex": "B452CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumOrchid4",
+   "Credits": "X",
+   "R;G;B Dec": "122;55;139",
+   "RGB Hex": "7A378B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumPurple",
+   "Credits": "X",
+   "R;G;B Dec": "147;112;219",
+   "RGB Hex": "9370DB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Orchid",
+   "Credits": "N",
+   "R;G;B Dec": "147;112;219",
+   "RGB Hex": "9370DB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumPurple1",
+   "Credits": "X",
+   "R;G;B Dec": "171;130;255",
+   "RGB Hex": "AB82FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Orchid",
+   "Credits": "N",
+   "R;G;B Dec": "153;50;205",
+   "RGB Hex": "9932CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumPurple2",
+   "Credits": "X",
+   "R;G;B Dec": "159;121;238",
+   "RGB Hex": "9F79EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumPurple3",
+   "Credits": "X",
+   "R;G;B Dec": "137;104;205",
+   "RGB Hex": "8968CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "MediumPurple4",
+   "Credits": "X",
+   "R;G;B Dec": "93;71;139",
+   "RGB Hex": "5D478B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "lavender",
+   "Credits": "X",
+   "R;G;B Dec": "230;230;250",
+   "RGB Hex": "E6E6FA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "magenta",
+   "Credits": "N,X",
+   "R;G;B Dec": "255;0;255",
+   "RGB Hex": "FF00FF",
+   "CSS Hex": "f0f",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "fuchsia",
+   "Credits": "V",
+   "R;G;B Dec": "255;0;255",
+   "RGB Hex": "FF00FF",
+   "CSS Hex": "f0f",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "magenta1",
+   "Credits": "X",
+   "R;G;B Dec": "255;0;255",
+   "RGB Hex": "FF00FF",
+   "CSS Hex": "f0f",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "magenta2",
+   "Credits": "X",
+   "R;G;B Dec": "238;0;238",
+   "RGB Hex": "EE00EE",
+   "CSS Hex": "e0e",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "magenta3",
+   "Credits": "X",
+   "R;G;B Dec": "205;0;205",
+   "RGB Hex": "CD00CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "magenta4",
+   "Credits": "X",
+   "R;G;B Dec": "139;0;139",
+   "RGB Hex": "8B008B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "maroon",
+   "Credits": "X",
+   "R;G;B Dec": "176;48;96",
+   "RGB Hex": "B03060",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "maroon1",
+   "Credits": "X",
+   "R;G;B Dec": "255;52;179",
+   "RGB Hex": "FF34B3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "maroon2",
+   "Credits": "X",
+   "R;G;B Dec": "238;48;167",
+   "RGB Hex": "EE30A7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "maroon3",
+   "Credits": "X",
+   "R;G;B Dec": "205;41;144",
+   "RGB Hex": "CD2990",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "maroon4",
+   "Credits": "X",
+   "R;G;B Dec": "139;28;98",
+   "RGB Hex": "8B1C62",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orchid",
+   "Credits": "X",
+   "R;G;B Dec": "218;112;214",
+   "RGB Hex": "DA70D6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Orchid",
+   "Credits": "N",
+   "R;G;B Dec": "219;112;219",
+   "RGB Hex": "DB70DB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orchid1",
+   "Credits": "X",
+   "R;G;B Dec": "255;131;250",
+   "RGB Hex": "FF83FA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orchid2",
+   "Credits": "X",
+   "R;G;B Dec": "238;122;233",
+   "RGB Hex": "EE7AE9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orchid3",
+   "Credits": "X",
+   "R;G;B Dec": "205;105;201",
+   "RGB Hex": "CD69C9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "orchid4",
+   "Credits": "X",
+   "R;G;B Dec": "139;71;137",
+   "RGB Hex": "8B4789",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "plum",
+   "Credits": "X",
+   "R;G;B Dec": "221;160;221",
+   "RGB Hex": "DDA0DD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "plum1",
+   "Credits": "X",
+   "R;G;B Dec": "255;187;255",
+   "RGB Hex": "FFBBFF",
+   "CSS Hex": "fbf",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "plum2",
+   "Credits": "X",
+   "R;G;B Dec": "238;174;238",
+   "RGB Hex": "EEAEEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "plum3",
+   "Credits": "X",
+   "R;G;B Dec": "205;150;205",
+   "RGB Hex": "CD96CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "plum4",
+   "Credits": "X",
+   "R;G;B Dec": "139;102;139",
+   "RGB Hex": "8B668B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "",
+   "Credits": "",
+   "R;G;B Dec": "153;102;204",
+   "RGB Hex": "9966CC",
+   "CSS Hex": "96c",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "purple",
+   "Credits": "X",
+   "R;G;B Dec": "160;32;240",
+   "RGB Hex": "A020F0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "purple",
+   "Credits": "V",
+   "R;G;B Dec": "128;0;128",
+   "RGB Hex": "800080",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "purple1",
+   "Credits": "X",
+   "R;G;B Dec": "155;48;255",
+   "RGB Hex": "9B30FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "purple2",
+   "Credits": "X",
+   "R;G;B Dec": "145;44;238",
+   "RGB Hex": "912CEE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "purple3",
+   "Credits": "X",
+   "R;G;B Dec": "125;38;205",
+   "RGB Hex": "7D26CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "purple4",
+   "Credits": "X",
+   "R;G;B Dec": "85;26;139",
+   "RGB Hex": "551A8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "thistle",
+   "Credits": "X",
+   "R;G;B Dec": "216;191;216",
+   "RGB Hex": "D8BFD8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "thistle1",
+   "Credits": "X",
+   "R;G;B Dec": "255;225;255",
+   "RGB Hex": "FFE1FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "thistle2",
+   "Credits": "X",
+   "R;G;B Dec": "238;210;238",
+   "RGB Hex": "EED2EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "thistle3",
+   "Credits": "X",
+   "R;G;B Dec": "205;181;205",
+   "RGB Hex": "CDB5CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "thistle4",
+   "Credits": "X",
+   "R;G;B Dec": "139;123;139",
+   "RGB Hex": "8B7B8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "violet",
+   "Credits": "X",
+   "R;G;B Dec": "238;130;238",
+   "RGB Hex": "EE82EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "violet blue",
+   "Credits": "N",
+   "R;G;B Dec": "159;95;159",
+   "RGB Hex": "9F5F9F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Dark Purple",
+   "Credits": "N",
+   "R;G;B Dec": "135;31;120",
+   "RGB Hex": "871F78",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Maroon",
+   "Credits": "V",
+   "R;G;B Dec": "128;0;0",
+   "RGB Hex": "800000",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Violet Red",
+   "Credits": "N",
+   "R;G;B Dec": "219;112;147",
+   "RGB Hex": "DB7093",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Neon Pink",
+   "Credits": "N",
+   "R;G;B Dec": "255;110;199",
+   "RGB Hex": "FF6EC7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Plum",
+   "Credits": "N",
+   "R;G;B Dec": "234;173;234",
+   "RGB Hex": "EAADEA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Thistle",
+   "Credits": "N",
+   "R;G;B Dec": "216;191;216",
+   "RGB Hex": "D8BFD8",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Turquoise",
+   "Credits": "N",
+   "R;G;B Dec": "173;234;234",
+   "RGB Hex": "ADEAEA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Violet",
+   "Credits": "N",
+   "R;G;B Dec": "79;47;79",
+   "RGB Hex": "4F2F4F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Violet Red",
+   "Credits": "N",
+   "R;G;B Dec": "204;50;153",
+   "RGB Hex": "CC3299",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "AntiqueWhite",
+   "Credits": "X",
+   "R;G;B Dec": "250;235;215",
+   "RGB Hex": "FAEBD7",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "AntiqueWhite1",
+   "Credits": "X",
+   "R;G;B Dec": "255;239;219",
+   "RGB Hex": "FFEFDB",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "AntiqueWhite2",
+   "Credits": "X",
+   "R;G;B Dec": "238;223;204",
+   "RGB Hex": "EEDFCC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "AntiqueWhite3",
+   "Credits": "X",
+   "R;G;B Dec": "205;192;176",
+   "RGB Hex": "CDC0B0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "AntiqueWhite4",
+   "Credits": "X",
+   "R;G;B Dec": "139;131;120",
+   "RGB Hex": "8B8378",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "FloralWhite",
+   "Credits": "X",
+   "R;G;B Dec": "255;250;240",
+   "RGB Hex": "FFFAF0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "GhostWhite",
+   "Credits": "X",
+   "R;G;B Dec": "248;248;255",
+   "RGB Hex": "F8F8FF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "NavajoWhite",
+   "Credits": "X",
+   "R;G;B Dec": "255;222;173",
+   "RGB Hex": "FFDEAD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "NavajoWhite1",
+   "Credits": "X",
+   "R;G;B Dec": "255;222;173",
+   "RGB Hex": "FFDEAD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "NavajoWhite2",
+   "Credits": "X",
+   "R;G;B Dec": "238;207;161",
+   "RGB Hex": "EECFA1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "NavajoWhite3",
+   "Credits": "X",
+   "R;G;B Dec": "205;179;139",
+   "RGB Hex": "CDB38B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "NavajoWhite4",
+   "Credits": "X",
+   "R;G;B Dec": "139;121;94",
+   "RGB Hex": "8B795E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "OldLace",
+   "Credits": "X",
+   "R;G;B Dec": "253;245;230",
+   "RGB Hex": "FDF5E6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "WhiteSmoke",
+   "Credits": "X",
+   "R;G;B Dec": "245;245;245",
+   "RGB Hex": "F5F5F5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gainsboro",
+   "Credits": "X",
+   "R;G;B Dec": "220;220;220",
+   "RGB Hex": "DCDCDC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "ivory",
+   "Credits": "X",
+   "R;G;B Dec": "255;255;240",
+   "RGB Hex": "FFFFF0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "ivory1",
+   "Credits": "X",
+   "R;G;B Dec": "255;255;240",
+   "RGB Hex": "FFFFF0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "ivory2",
+   "Credits": "X",
+   "R;G;B Dec": "238;238;224",
+   "RGB Hex": "EEEEE0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "ivory3",
+   "Credits": "X",
+   "R;G;B Dec": "205;205;193",
+   "RGB Hex": "CDCDC1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "ivory4",
+   "Credits": "X",
+   "R;G;B Dec": "139;139;131",
+   "RGB Hex": "8B8B83",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "linen",
+   "Credits": "X",
+   "R;G;B Dec": "250;240;230",
+   "RGB Hex": "FAF0E6",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "seashell",
+   "Credits": "X",
+   "R;G;B Dec": "255;245;238",
+   "RGB Hex": "FFF5EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "seashell1",
+   "Credits": "X",
+   "R;G;B Dec": "255;245;238",
+   "RGB Hex": "FFF5EE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "seashell2",
+   "Credits": "X",
+   "R;G;B Dec": "238;229;222",
+   "RGB Hex": "EEE5DE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "seashell3",
+   "Credits": "X",
+   "R;G;B Dec": "205;197;191",
+   "RGB Hex": "CDC5BF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "seashell4",
+   "Credits": "X",
+   "R;G;B Dec": "139;134;130",
+   "RGB Hex": "8B8682",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "snow",
+   "Credits": "X",
+   "R;G;B Dec": "255;250;250",
+   "RGB Hex": "FFFAFA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "snow1",
+   "Credits": "X",
+   "R;G;B Dec": "255;250;250",
+   "RGB Hex": "FFFAFA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "snow2",
+   "Credits": "X",
+   "R;G;B Dec": "238;233;233",
+   "RGB Hex": "EEE9E9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "snow3",
+   "Credits": "X",
+   "R;G;B Dec": "205;201;201",
+   "RGB Hex": "CDC9C9",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "snow4",
+   "Credits": "X",
+   "R;G;B Dec": "139;137;137",
+   "RGB Hex": "8B8989",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "wheat",
+   "Credits": "X",
+   "R;G;B Dec": "245;222;179",
+   "RGB Hex": "F5DEB3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "wheat1",
+   "Credits": "X",
+   "R;G;B Dec": "255;231;186",
+   "RGB Hex": "FFE7BA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "wheat2",
+   "Credits": "X",
+   "R;G;B Dec": "238;216;174",
+   "RGB Hex": "EED8AE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "wheat3",
+   "Credits": "X",
+   "R;G;B Dec": "205;186;150",
+   "RGB Hex": "CDBA96",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "wheat4",
+   "Credits": "X",
+   "R;G;B Dec": "139;126;102",
+   "RGB Hex": "8B7E66",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "white",
+   "Credits": "N,V,X",
+   "R;G;B Dec": "255;255;255",
+   "RGB Hex": "FFFFFF",
+   "CSS Hex": "fff",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Quartz",
+   "Credits": "N",
+   "R;G;B Dec": "217;217;243",
+   "RGB Hex": "D9D9F3",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Wheat",
+   "Credits": "N",
+   "R;G;B Dec": "216;216;191",
+   "RGB Hex": "D8D8BF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "BlanchedAlmond",
+   "Credits": "X",
+   "R;G;B Dec": "255;235;205",
+   "RGB Hex": "FFEBCD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkGoldenrod",
+   "Credits": "X",
+   "R;G;B Dec": "184;134;11",
+   "RGB Hex": "B8860B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkGoldenrod1",
+   "Credits": "X",
+   "R;G;B Dec": "255;185;15",
+   "RGB Hex": "FFB90F",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkGoldenrod2",
+   "Credits": "X",
+   "R;G;B Dec": "238;173;14",
+   "RGB Hex": "EEAD0E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkGoldenrod3",
+   "Credits": "X",
+   "R;G;B Dec": "205;149;12",
+   "RGB Hex": "CD950C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "DarkGoldenrod4",
+   "Credits": "X",
+   "R;G;B Dec": "139;101;8",
+   "RGB Hex": "8B6508",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LemonChiffon",
+   "Credits": "X",
+   "R;G;B Dec": "255;250;205",
+   "RGB Hex": "FFFACD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LemonChiffon1",
+   "Credits": "X",
+   "R;G;B Dec": "255;250;205",
+   "RGB Hex": "FFFACD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LemonChiffon2",
+   "Credits": "X",
+   "R;G;B Dec": "238;233;191",
+   "RGB Hex": "EEE9BF",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LemonChiffon3",
+   "Credits": "X",
+   "R;G;B Dec": "205;201;165",
+   "RGB Hex": "CDC9A5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LemonChiffon4",
+   "Credits": "X",
+   "R;G;B Dec": "139;137;112",
+   "RGB Hex": "8B8970",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGoldenrod",
+   "Credits": "X",
+   "R;G;B Dec": "238;221;130",
+   "RGB Hex": "EEDD82",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGoldenrod1",
+   "Credits": "X",
+   "R;G;B Dec": "255;236;139",
+   "RGB Hex": "FFEC8B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGoldenrod2",
+   "Credits": "X",
+   "R;G;B Dec": "238;220;130",
+   "RGB Hex": "EEDC82",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGoldenrod3",
+   "Credits": "X",
+   "R;G;B Dec": "205;190;112",
+   "RGB Hex": "CDBE70",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGoldenrod4",
+   "Credits": "X",
+   "R;G;B Dec": "139;129;76",
+   "RGB Hex": "8B814C",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightGoldenrodYellow",
+   "Credits": "X",
+   "R;G;B Dec": "250;250;210",
+   "RGB Hex": "FAFAD2",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightYellow",
+   "Credits": "X",
+   "R;G;B Dec": "255;255;224",
+   "RGB Hex": "FFFFE0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightYellow1",
+   "Credits": "X",
+   "R;G;B Dec": "255;255;224",
+   "RGB Hex": "FFFFE0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightYellow2",
+   "Credits": "X",
+   "R;G;B Dec": "238;238;209",
+   "RGB Hex": "EEEED1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightYellow3",
+   "Credits": "X",
+   "R;G;B Dec": "205;205;180",
+   "RGB Hex": "CDCDB4",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "LightYellow4",
+   "Credits": "X",
+   "R;G;B Dec": "139;139;122",
+   "RGB Hex": "8B8B7A",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PaleGoldenrod",
+   "Credits": "X",
+   "R;G;B Dec": "238;232;170",
+   "RGB Hex": "EEE8AA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "PapayaWhip",
+   "Credits": "X",
+   "R;G;B Dec": "255;239;213",
+   "RGB Hex": "FFEFD5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cornsilk",
+   "Credits": "X",
+   "R;G;B Dec": "255;248;220",
+   "RGB Hex": "FFF8DC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cornsilk1",
+   "Credits": "X",
+   "R;G;B Dec": "255;248;220",
+   "RGB Hex": "FFF8DC",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cornsilk2",
+   "Credits": "X",
+   "R;G;B Dec": "238;232;205",
+   "RGB Hex": "EEE8CD",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cornsilk3",
+   "Credits": "X",
+   "R;G;B Dec": "205;200;177",
+   "RGB Hex": "CDC8B1",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cornsilk4",
+   "Credits": "X",
+   "R;G;B Dec": "139;136;120",
+   "RGB Hex": "8B8878",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "goldenrod",
+   "Credits": "X",
+   "R;G;B Dec": "218;165;32",
+   "RGB Hex": "DAA520",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "goldenrod1",
+   "Credits": "X",
+   "R;G;B Dec": "255;193;37",
+   "RGB Hex": "FFC125",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "goldenrod2",
+   "Credits": "X",
+   "R;G;B Dec": "238;180;34",
+   "RGB Hex": "EEB422",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "goldenrod3",
+   "Credits": "X",
+   "R;G;B Dec": "205;155;29",
+   "RGB Hex": "CD9B1D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "goldenrod4",
+   "Credits": "X",
+   "R;G;B Dec": "139;105;20",
+   "RGB Hex": "8B6914",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "moccasin",
+   "Credits": "X",
+   "R;G;B Dec": "255;228;181",
+   "RGB Hex": "FFE4B5",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "yellow",
+   "Credits": "N,V,X",
+   "R;G;B Dec": "255;255;0",
+   "RGB Hex": "FFFF00",
+   "CSS Hex": "ff0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "yellow1",
+   "Credits": "X",
+   "R;G;B Dec": "255;255;0",
+   "RGB Hex": "FFFF00",
+   "CSS Hex": "ff0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "yellow2",
+   "Credits": "X",
+   "R;G;B Dec": "238;238;0",
+   "RGB Hex": "EEEE00",
+   "CSS Hex": "ee0",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "yellow3",
+   "Credits": "X",
+   "R;G;B Dec": "205;205;0",
+   "RGB Hex": "CDCD00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "yellow4",
+   "Credits": "X",
+   "R;G;B Dec": "139;139;0",
+   "RGB Hex": "8B8B00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gold",
+   "Credits": "X",
+   "R;G;B Dec": "255;215;0",
+   "RGB Hex": "FFD700",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gold1",
+   "Credits": "X",
+   "R;G;B Dec": "255;215;0",
+   "RGB Hex": "FFD700",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gold2",
+   "Credits": "X",
+   "R;G;B Dec": "238;201;0",
+   "RGB Hex": "EEC900",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gold3",
+   "Credits": "X",
+   "R;G;B Dec": "205;173;0",
+   "RGB Hex": "CDAD00",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gold4",
+   "Credits": "X",
+   "R;G;B Dec": "139;117;0",
+   "RGB Hex": "8B7500",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Goldenrod",
+   "Credits": "N",
+   "R;G;B Dec": "219;219;112",
+   "RGB Hex": "DBDB70",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Medium Goldenrod",
+   "Credits": "N",
+   "R;G;B Dec": "234;234;174",
+   "RGB Hex": "EAEAAE",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Yellow Green",
+   "Credits": "N",
+   "R;G;B Dec": "153;204;50",
+   "RGB Hex": "99CC32",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "copper",
+   "Credits": "N",
+   "R;G;B Dec": "184;115;51",
+   "RGB Hex": "B87333",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "cool copper",
+   "Credits": "N",
+   "R;G;B Dec": "217;135;25",
+   "RGB Hex": "D98719",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Green Copper",
+   "Credits": "N",
+   "R;G;B Dec": "133;99;99",
+   "RGB Hex": "856363",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "brass",
+   "Credits": "N",
+   "R;G;B Dec": "181;166;66",
+   "RGB Hex": "B5A642",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bronze",
+   "Credits": "N",
+   "R;G;B Dec": "140;120;83",
+   "RGB Hex": "8C7853",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bronze II",
+   "Credits": "N",
+   "R;G;B Dec": "166;125;61",
+   "RGB Hex": "A67D3D",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "bright gold",
+   "Credits": "N",
+   "R;G;B Dec": "217;217;25",
+   "RGB Hex": "D9D919",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Old Gold",
+   "Credits": "N",
+   "R;G;B Dec": "207;181;59",
+   "RGB Hex": "CFB53B",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "CSS Gold",
+   "Credits": "",
+   "R;G;B Dec": "204;153;0",
+   "RGB Hex": "CC9900",
+   "CSS Hex": "c90",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "gold",
+   "Credits": "N",
+   "R;G;B Dec": "205;127;50",
+   "RGB Hex": "CD7F32",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "silver",
+   "Credits": "N",
+   "R;G;B Dec": "230;232;250",
+   "RGB Hex": "E6E8FA",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Silver, Grey",
+   "Credits": "V",
+   "R;G;B Dec": "192;192;192",
+   "RGB Hex": "C0C0C0",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Light Steel Blue",
+   "Credits": "N",
+   "R;G;B Dec": "84;84;84",
+   "RGB Hex": "545454",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": "### SAMPLE ###"
+   }
+},
+ {
+   "Color Name": "Steel Blue",
+   "Credits": "N",
+   "R;G;B Dec": "35;107;142",
+   "RGB Hex": "236B8E",
+   "CSS Hex": "",
+   "BG": {
+      "FG color sample": ""
+   }
+}
+]
